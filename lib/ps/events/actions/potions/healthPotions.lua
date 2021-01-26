@@ -55,7 +55,8 @@ local function onHealStart(target, item, targetPosition, playerPosition, forceFi
     doSendAnimatedText(targetPosition, "HEAL +" .. HEALTH_POTIONS[item.itemid].msg, COLOR_LIGHTGREEN)
     doSendMagicEffect(targetPosition, EFFECT_GREEN_BUFF)
     doSendDistanceShoot(playerPosition, targetPosition, PROJECTILE_GRAVEL)
-    doRemoveItem(item.uid, 1)
+    -- doRemoveItem(item.uid, 1)
+	-- Infinite Health Potions
 
     if (forceFirstHeal) then
         doCreatureAddHealth(target, HEALTH_POTIONS[item.itemid].healthGain, true)

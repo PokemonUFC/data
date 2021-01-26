@@ -30,7 +30,8 @@ local function onEnergyStart(target, item, targetPosition, playerPosition, force
 	doSendAnimatedText(targetPosition, "ENERGY +" .. ENERGY_POTIONS[item.itemid].msg, COLOR_LIGHTBLUE)
 	doSendMagicEffect(targetPosition, EFFECT_BLUE_BUFF)
 	doSendDistanceShoot(playerPosition, targetPosition, PROJECTILE_GRAVEL)
-	doRemoveItem(item.uid, 1)
+	-- doRemoveItem(item.uid, 1)
+	-- Infinite Energy Potions
 
 	if (forceFirstHeal) then
 		doCreatureAddMana(getCreatureMaster(target), ENERGY_POTIONS[item.itemid].energyGain, false)
@@ -55,7 +56,7 @@ function onUse(cid, item, fromPosition, itemEx, toPosition)
 		if(toPosition.x ~= pokemonPosition.x or toPosition.y ~= pokemonPosition.y or toPosition.z ~= pokemonPosition.z) then
 			doPlayerSendDefaultCancel(cid, RETURNVALUE_NOTPOSSIBLE)
 
-		elseif(getDistanceBetween(getCreaturePosition(cid), pokemonPosition) > 4) then
+		elseif(getDistanceBetween(getCreaturePosition(cid), pokemonPosition) > 7) then
 			doPlayerSendDefaultCancel(cid, RETURNVALUE_TOOFARAWAY)
 
 		else

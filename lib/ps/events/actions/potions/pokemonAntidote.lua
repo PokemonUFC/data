@@ -28,8 +28,8 @@ function onUse(cid, item, fromPosition, itemEx, toPosition)
 			doSendMagicEffect(pokemonPosition, EFFECT_GREEN_BUFF)
             doSendDistanceShoot(fromPosition, pokemonPosition, PROJECTILE_GRAVEL)
             doCreatureRemoveStatus(pokemon, CREATURE_STATUS_POISON)
-            doAddCondition(cid, delay)
-			doRemoveItem(item.uid, 1)
+            -- doAddCondition(cid, delay)
+			-- doRemoveItem(item.uid, 1)
 		end
 	end
 	return true

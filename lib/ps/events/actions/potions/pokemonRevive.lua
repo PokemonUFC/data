@@ -6,6 +6,7 @@ function onUse(cid, item, fromPosition, itemEx, toPosition)
 
 	local ballName = ballsNames[itemEx.itemid]
 	if (not isItem(itemEx) or ballName == nil or  itemEx.itemid ~= balls[ballName].discharged) then
+	-- if (not isItem(itemEx) or ballName == nil) then
 		doPlayerSendDefaultCancel(cid, RETURNVALUE_NOTPOSSIBLE)
 	elseif (isDueling(cid)) then
 		doPlayerSendCancel(cid, "You can not use this potion while you're dueling.")
@@ -14,7 +15,9 @@ function onUse(cid, item, fromPosition, itemEx, toPosition)
 	else
 		doBallHeal(cid, itemEx)
 		doSendMagicEffect(getCreaturePosition(cid), EFFECT_GREEN_BUFF)
-		doRemoveItem(item.uid, 1)
+		-- doRemoveItem(item.uid, 1)
+		-- Infinite Revive
+		
 	end
 	return true
 end

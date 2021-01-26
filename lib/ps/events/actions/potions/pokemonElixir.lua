@@ -32,8 +32,9 @@ function onUse(cid, item, fromPosition, itemEx, toPosition)
 			doRemoveCondition(pokemon, CONDITION_FIRE)
 			doRemoveCondition(pokemon, CONDITION_DRUNK)
 			doCreatureAddHealth(pokemon, getCreatureMaxHealth(pokemon) - getCreatureHealth(pokemon))
-			doRemoveItem(item.uid, 1)
-			doAddCondition(cid, elixirDelayCondition)
+			-- doRemoveItem(item.uid, 1)
+			-- doAddCondition(cid, elixirDelayCondition)
+			-- Infinite Elixir
 		end
 	end
 
