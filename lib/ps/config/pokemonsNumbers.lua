@@ -1,4 +1,4 @@
-POKEMON_NUMBER = 386
+POKEMON_NUMBER = 493
 
 local pokemonsNumbers = {
     -- 1st Gen
@@ -416,6 +416,21 @@ local pokemonsNumbers = {
     ["Rayquaza"] = 384,
     ["Jirachi"] = 385,
     ["Deoxys"] = 386,
+	-- 4th Gen
+	["Turtwig"] = 387,
+	["Grotle"] = 388,
+	["Torterra"] = 389,
+	["Chimchar"] = 390,
+	["Monferno"] = 391,
+	["Infernape"] = 392,
+	["Piplup"] = 393,
+	["Prinplup"] = 394,
+	["Empoleon"] = 395,
+	["Starly"] = 396,
+	["Staravia"] = 397,
+	["Staraptor"] = 398,
+	["Bidoof"] = 399,
+	["Bibarel"] = 400,
     -- Shiny
     ["Shiny Bulbasaur"] = 1,
     ["Shiny Ivysaur"] = 2,
@@ -829,6 +844,21 @@ local pokemonsNumbers = {
     ["Shiny Rayquaza"] = 384,
     ["Shiny Jirachi"] = 385,
     ["Shiny Deoxys"] = 386,
+	-- 4th Gen
+	["Shiny Turtwig"] = 387,
+	["Shiny Grotle"] = 388,
+	["Shiny Torterra"] = 389,
+	["Shiny Chimchar"] = 390,
+	["Shiny Monferno"] = 391,
+	["Shiny Infernape"] = 392,
+	["Shiny Piplup"] = 393,
+	["Shiny Prinplup"] = 394,
+	["Shiny Empoleon"] = 395,
+	["Shiny Starly"] = 396,
+	["Shiny Staravia"] = 397,
+	["Shiny Staraptor"] = 398,
+	["Shiny Bidoof"] = 399,
+	["Shiny Bibarel"] = 400,
 }
 
 local pokemonNameByNumber = {
@@ -1219,6 +1249,20 @@ local pokemonNameByNumber = {
     [311] = "Plusle",
     [290] = "Nincada",
     [280] = "Ralts",
+	[387] = "Turtwig", -- Generation IV
+	[388] = "Grotle",
+	[389] = "Torterra",
+	[390] = "Chimchar",
+	[391] = "Monferno",
+	[392] = "Infernape",
+	[393] = "Piplup",
+	[394] = "Prinplup",
+	[395] = "Empoleon",
+	[396] = "Starly",
+	[397] = "Staravia",
+	[398] = "Staraptor",
+	[399] = "Bidoof",
+	[400] = "Bibarel",
 }
 
 function getPokemonNumberByName(pokemonName)

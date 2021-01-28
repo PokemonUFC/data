@@ -416,7 +416,22 @@ local NORMAL_3RD = {
     "Minun",
     "Plusle",
     "Nincada",
-    "Ralts"
+    "Ralts",
+	-- Gen 4
+	"Turtwig",
+	"Grotle",
+	"Torterra",
+	"Chimchar",
+	"Monferno",
+	"Infernape",
+	"Piplup",
+	"Prinplup",
+	"Empoleon",
+	"Starly",
+	"Staravia",
+	"Staraptor",
+	"Bidoof",
+	"Bibarel"
 }
 
 local SHINY = {
@@ -831,7 +846,23 @@ local SHINY = {
     "Shiny Minun",
     "Shiny Plusle",
     "Shiny Nincada",
-    "Shiny Ralts"
+    "Shiny Ralts",
+	-- Gen 4
+	"Shiny Turtwig",
+	"Shiny Grotle",
+	"Shiny Torterra",
+	"Shiny Chimchar",
+	"Shiny Monferno",
+	"Shiny Infernape",
+	"Shiny Piplup",
+	"Shiny Prinplup",
+	"Shiny Empoleon",
+	"Shiny Starly",
+	"Shiny Staravia",
+	"Shiny Staraptor",
+	"Shiny Bidoof",
+	"Shiny Bibarel",
+	
 }
 
 pokemonsNames = table_concat(NORMAL_1ST, NORMAL_2ND, NORMAL_3RD, SHINY)

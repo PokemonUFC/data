@@ -391,6 +391,21 @@
 	<monster name="Plusle" file="Pokemons/plusle.xml"/>	
 	<monster name="Nincada" file="Pokemons/nincada.xml"/>	
 	<monster name="Ralts" file="Pokemons/ralts.xml"/>	
+	<!-- Sinnho Pokemons Generation 4 -->
+	<monster name="Turtwig" file="Pokemons/387-Turtwig.xml"/>	
+	<monster name="Grotle" file="Pokemons/388-Grotle.xml"/>	
+	<monster name="Torterra" file="Pokemons/389-Torterra.xml"/>	
+	<monster name="Chimchar" file="Pokemons/390-Chimchar.xml"/>	
+	<monster name="Monferno" file="Pokemons/391-Monferno.xml"/>	
+	<monster name="Infernape" file="Pokemons/392-Infernape.xml"/>	
+	<monster name="Piplup" file="Pokemons/393-Piplup.xml"/>	
+	<monster name="Prinplup" file="Pokemons/394-Prinplup.xml"/>	
+	<monster name="Empoleon" file="Pokemons/395-Empoleon.xml"/>	
+	<monster name="Starly" file="Pokemons/396-Starly.xml"/>	
+	<monster name="Staravia" file="Pokemons/397-Staravia.xml"/>
+	<monster name="Staraptor" file="Pokemons/398-Staraptor.xml"/>	
+	<monster name="Bidoof" file="Pokemons/399-Bidoof.xml"/>	
+	<monster name="Bibarel" file="Pokemons/400-Bibarel.xml"/>
 	<!-- BOSS / PVP ARENA -->
 	<monster name="The Kicker" file="PvpArena/the kicker.xml"/>
 	<monster name="The Punisher Hand" file="PvpArena/the punisher hand.xml"/>
