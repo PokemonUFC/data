@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Shiny Kecleon" nickname="Kecleon" nameDescription="a Shiny Kecleon" race="blood" experience="10" speed="240" manacost="0" minLevel="40" maxLevel="50">
+<monster name="Shiny Kecleon" nickname="Shiny Kecleon" nameDescription="a Shiny Kecleon" race="blood" experience="10" speed="240" manacost="0" minLevel="40" maxLevel="50">
 	<health now="60" max="60"/>
 	<look type="1911" corpse="29533" head="100" body="79" legs="94"/>
 	<targetchange interval="5000" chance="8"/>

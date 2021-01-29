@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Shiny Hitmonlee" nameDescription="a Shiny Hitmonlee" nickname="Hitmonlee" race="blood" experience="15" speed="287" manacost="0" sex="1" minLevel="60" maxLevel="70">
+<monster name="Shiny Hitmonlee" nameDescription="a Shiny Hitmonlee" nickname="Shiny Hitmonlee" race="blood" experience="15" speed="287" manacost="0" sex="1" minLevel="60" maxLevel="70">
 	<health now="50" max="50" rate="1.1"/>
 	<look type="805" head="0" body="0" legs="0" feet="0" corpse="14211"/>
 	<targetchange interval="5000" chance="8"/>

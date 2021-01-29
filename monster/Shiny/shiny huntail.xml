@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Shiny Huntail" nickname="Huntail" nameDescription="a Shiny Huntail" race="blood" experience="10" speed="252" manacost="0" minLevel="40" maxLevel="50">
+<monster name="Shiny Huntail" nickname="Shiny Huntail" nameDescription="a Shiny Huntail" race="blood" experience="10" speed="252" manacost="0" minLevel="40" maxLevel="50">
 	<health now="55" max="55"/>
 	<look type="1926" corpse="29548"/>
 	<targetchange interval="5000" chance="8"/>

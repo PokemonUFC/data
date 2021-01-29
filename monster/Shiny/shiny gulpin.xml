@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Shiny Gulpin" nickname="Gulpin" nameDescription="a Shiny Gulpin" race="blood" experience="5" speed="240" manacost="0" minLevel="20" maxLevel="30">
+<monster name="Shiny Gulpin" nickname="Shiny Gulpin" nameDescription="a Shiny Gulpin" race="blood" experience="5" speed="240" manacost="0" minLevel="20" maxLevel="30">
 	<health now="70" max="70"/>
 	<look type="1875" corpse="29497"/>
 	<targetchange interval="5000" chance="8"/>

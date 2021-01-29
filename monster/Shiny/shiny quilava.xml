@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Shiny Quilava" nameDescription="a Shiny Quilava" nickname="Quilava" race="blood" experience="12" speed="280" manacost="0" minLevel="40" maxLevel="50">
+<monster name="Shiny Quilava" nameDescription="a Shiny Quilava" nickname="Shiny Quilava" race="blood" experience="12" speed="280" manacost="0" minLevel="40" maxLevel="50">
 	<health now="58" max="58" rate="1.1"/>
 	<look type="1261" head="0" body="0" legs="0" feet="0" corpse="18971"/>
 	<targetchange interval="5000" chance="8"/>

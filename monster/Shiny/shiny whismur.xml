@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Shiny Whismur" nickname="Whismur" nameDescription="a Shiny Whismur" race="blood" experience="5" speed="228" manacost="0" minLevel="20" maxLevel="30">
+<monster name="Shiny Whismur" nickname="Shiny Whismur" nameDescription="a Shiny Whismur" race="blood" experience="5" speed="228" manacost="0" minLevel="20" maxLevel="30">
 	<health now="64" max="64"/>
 	<look type="1852" corpse="29474"/>
 	<targetchange interval="5000" chance="8"/>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Shiny Gardevoir" nickname="Gardevoir" nameDescription="a Shiny Gardevoir" race="blood" experience="15" speed="280" manacost="0" minLevel="85" maxLevel="95">
+<monster name="Shiny Gardevoir" nickname="Shiny Gardevoir" nameDescription="a Shiny Gardevoir" race="blood" experience="15" speed="280" manacost="0" minLevel="85" maxLevel="95">
 	<health now="68" max="68"/>
 	<look type="1841" corpse="29463"/>
 	<targetchange interval="5000" chance="8"/>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Shiny Medicham" nickname="Medicham" nameDescription="a Shiny Medicham" race="blood" experience="10" speed="280" manacost="0" minLevel="40" maxLevel="50">
+<monster name="Shiny Medicham" nickname="Shiny Medicham" nameDescription="a Shiny Medicham" race="blood" experience="10" speed="280" manacost="0" minLevel="40" maxLevel="50">
 	<health now="60" max="60"/>
 	<look type="1867" corpse="29489"/>
 	<targetchange interval="5000" chance="8"/>

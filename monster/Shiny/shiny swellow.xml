@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Shiny Swellow" nickname="Swellow" nameDescription="a Shiny Swellow" race="blood" experience="12" speed="325" manacost="0" minLevel="60" maxLevel="70">
+<monster name="Shiny Swellow" nickname="Shiny Swellow" nameDescription="a Shiny Swellow" race="blood" experience="12" speed="325" manacost="0" minLevel="60" maxLevel="70">
 	<health now="60" max="60"/>
 	<look type="1836" corpse="29458"/>
 	<targetchange interval="5000" chance="8"/>

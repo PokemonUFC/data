@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Shiny Dragonair" nameDescription="a Shiny Dragonair" nickname="Dragonair" race="blood" experience="10" speed="270" manacost="0" minLevel="70" maxLevel="80">
+<monster name="Shiny Dragonair" nameDescription="a Shiny Dragonair" nickname="Shiny Dragonair" race="blood" experience="10" speed="270" manacost="0" minLevel="70" maxLevel="80">
 	<health now="61" max="61" rate="1.1"/>
 	<look type="847" head="0" body="0" legs="0" feet="0" corpse="14253"/>
 	<targetchange interval="5000" chance="8"/>

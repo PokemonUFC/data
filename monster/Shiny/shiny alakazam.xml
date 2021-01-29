@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Shiny Alakazam" nameDescription="a Shiny Alakazam" nickname="Alakazam" race="blood" experience="15" speed="320" manacost="0" minLevel="80" maxLevel="90">
+<monster name="Shiny Alakazam" nameDescription="a Shiny Alakazam" nickname="Shiny Alakazam" race="blood" experience="15" speed="320" manacost="0" minLevel="80" maxLevel="90">
 	<health now="55" max="55" rate="1.1"/>
 	<look type="743" head="0" body="0" legs="0" feet="0" corpse="14070"/>
 	<targetchange interval="5000" chance="8"/>

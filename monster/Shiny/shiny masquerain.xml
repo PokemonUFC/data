@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Shiny Masquerain" nickname="Masquerain" nameDescription="a Shiny Masquerain" race="blood" experience="10" speed="280" manacost="0" minLevel="40" maxLevel="50">
+<monster name="Shiny Masquerain" nickname="Shiny Masquerain" nameDescription="a Shiny Masquerain" race="blood" experience="10" speed="280" manacost="0" minLevel="40" maxLevel="50">
 	<health now="70" max="70"/>
 	<look type="1843" corpse="29465"/>
 	<targetchange interval="5000" chance="8"/>

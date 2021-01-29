@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Shiny Zubat" nameDescription="a Shiny Zubat" nickname="Zubat" race="blood" experience="7" speed="255" manacost="0" minLevel="5" maxLevel="15">
+<monster name="Shiny Zubat" nameDescription="a Shiny Zubat" nickname="Shiny Zubat" race="blood" experience="7" speed="255" manacost="0" minLevel="5" maxLevel="15">
 	<health now="40" max="40" rate="1.1"/>
 	<look type="706" head="0" body="0" legs="0" feet="0" corpse="13861"/>
 	<targetchange interval="5000" chance="8"/>

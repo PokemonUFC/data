@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Shiny Hypno" nameDescription="a Shiny Hypno" nickname="Hypno" race="blood" experience="12" speed="267" manacost="0" minLevel="50" maxLevel="60">
+<monster name="Shiny Hypno" nameDescription="a Shiny Hypno" nickname="Shiny Hypno" race="blood" experience="12" speed="267" manacost="0" minLevel="50" maxLevel="60">
 	<health now="85" max="85" rate="1.1"/>
 	<look type="775" head="0" body="0" legs="0" feet="0" corpse="14102"/>
 	<targetchange interval="5000" chance="8"/>

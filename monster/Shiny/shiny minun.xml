@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Shiny Minun" nickname="Minun" nameDescription="a Shiny Minun" race="blood" experience="10" speed="295" manacost="0" minLevel="40" maxLevel="50">
+<monster name="Shiny Minun" nickname="Shiny Minun" nameDescription="a Shiny Minun" race="blood" experience="10" speed="295" manacost="0" minLevel="40" maxLevel="50">
 	<health now="60" max="60"/>
 	<look type="1871" corpse="29493"/>
 	<targetchange interval="5000" chance="8"/>

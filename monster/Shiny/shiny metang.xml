@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Shiny Metang" nickname="Metang" nameDescription="a Shiny Metang" race="blood" experience="10" speed="250" manacost="0" minLevel="40" maxLevel="50" sex="2">
+<monster name="Shiny Metang" nickname="Shiny Metang" nameDescription="a Shiny Metang" race="blood" experience="10" speed="250" manacost="0" minLevel="40" maxLevel="50" sex="2">
 	<health now="60" max="60"/>
 	<look type="1934" corpse="29556"/>
 	<targetchange interval="5000" chance="8"/>
