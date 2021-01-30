@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Shiny Pidgeot" nameDescription="a Shiny Pidgeot" nickname="Shiny Pidgeot" race="blood" experience="15" speed="291" manacost="0" minLevel="65" maxLevel="75">
+<monster name="Shiny Pidgeot" nameDescription="a Shiny Pidgeot" nickname="Pidgeot" race="blood" experience="15" speed="291" manacost="0" minLevel="65" maxLevel="75">
 	<health now="83" max="83" rate="1.1"/>
 	<look type="683" head="0" body="0" legs="0" feet="0" corpse="13838"/>
 	<targetchange interval="5000" chance="8"/>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Shiny Sealeo" nickname="Shiny Sealeo" nameDescription="a Shiny Sealeo" race="blood" experience="10" speed="245" manacost="0" minLevel="40" maxLevel="50">
+<monster name="Shiny Sealeo" nickname="Sealeo" nameDescription="a Shiny Sealeo" race="blood" experience="10" speed="245" manacost="0" minLevel="40" maxLevel="50">
 	<health now="90" max="90"/>
 	<look type="1923" corpse="29545"/>
 	<targetchange interval="5000" chance="8"/>

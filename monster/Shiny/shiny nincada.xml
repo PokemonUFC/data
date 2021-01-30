@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Shiny Nincada" nickname="Shiny Nincada" nameDescription="a Shiny Nincada" race="blood" experience="5" speed="240" manacost="0" minLevel="20" maxLevel="30">
+<monster name="Shiny Nincada" nickname="Nincada" nameDescription="a Shiny Nincada" race="blood" experience="5" speed="240" manacost="0" minLevel="20" maxLevel="30">
 	<health now="31" max="31"/>
 	<look type="1849" corpse="29471"/>
 	<targetchange interval="5000" chance="8"/>

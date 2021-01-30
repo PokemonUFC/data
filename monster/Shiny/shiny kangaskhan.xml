@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Shiny Kangaskhan" nameDescription="a Shiny Kangaskhan" nickname="Shiny Kangaskhan" race="blood" experience="15" speed="290" manacost="0" sex="0" minLevel="75" maxLevel="85">
+<monster name="Shiny Kangaskhan" nameDescription="a Shiny Kangaskhan" nickname="Kangaskhan" race="blood" experience="15" speed="290" manacost="0" sex="0" minLevel="75" maxLevel="85">
 	<health now="105" max="105" rate="1.1"/>
 	<look type="814" head="0" body="0" legs="0" feet="0" corpse="14220"/>
 	<targetchange interval="5000" chance="8"/>

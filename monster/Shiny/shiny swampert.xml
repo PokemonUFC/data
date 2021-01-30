@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Shiny Swampert" nickname="Shiny Swampert" nameDescription="a Shiny Swampert" race="blood" experience="15" speed="260" manacost="0" minLevel="85" maxLevel="95">
+<monster name="Shiny Swampert" nickname="Swampert" nameDescription="a Shiny Swampert" race="blood" experience="15" speed="260" manacost="0" minLevel="85" maxLevel="95">
 	<health now="100" max="100"/>
 	<look type="1819" corpse="29441"/>
 	<targetchange interval="5000" chance="8"/>

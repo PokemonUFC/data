@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Shiny Whiscash" nickname="Shiny Whiscash" nameDescription="a Shiny Whiscash" race="blood" experience="10" speed="260" manacost="0" minLevel="40" maxLevel="50">
+<monster name="Shiny Whiscash" nickname="Whiscash" nameDescription="a Shiny Whiscash" race="blood" experience="10" speed="260" manacost="0" minLevel="40" maxLevel="50">
 	<health now="110" max="110"/>
 	<look type="1899" corpse="29521"/>
 	<targetchange interval="5000" chance="8"/>

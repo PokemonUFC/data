@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Shiny Venomoth" nameDescription="a Shiny Venomoth" nickname="Shiny Venomoth" race="blood" experience="15" speed="290" manacost="0" minLevel="50" maxLevel="60">
+<monster name="Shiny Venomoth" nameDescription="a Shiny Venomoth" nickname="Venomoth" race="blood" experience="15" speed="290" manacost="0" minLevel="50" maxLevel="60">
 	<health now="70" max="70" rate="1.1"/>
 	<look type="714" head="0" body="0" legs="0" feet="0" corpse="13869"/>
 	<targetchange interval="5000" chance="8"/>

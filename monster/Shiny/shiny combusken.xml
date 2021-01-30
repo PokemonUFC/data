@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Shiny Combusken" nickname="Shiny Combusken" nameDescription="a Shiny Combusken" race="blood" experience="12" speed="255" manacost="0" minLevel="40" maxLevel="50">
+<monster name="Shiny Combusken" nickname="Combusken" nameDescription="a Shiny Combusken" race="blood" experience="12" speed="255" manacost="0" minLevel="40" maxLevel="50">
 	<health now="60" max="60"/>
 	<look type="1815" corpse="29437"/>
 	<targetchange interval="5000" chance="8"/>

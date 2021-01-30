@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Shiny Persian" nameDescription="a Shiny Persian" nickname="Shiny Persian" race="blood" experience="12" speed="315" manacost="0" minLevel="25" maxLevel="35">
+<monster name="Shiny Persian" nameDescription="a Shiny Persian" nickname="Persian" race="blood" experience="12" speed="315" manacost="0" minLevel="25" maxLevel="35">
 	<health now="65" max="65" rate="1.1"/>
 	<look type="731" head="0" body="0" legs="0" feet="0" corpse="14058"/>
 	<targetchange interval="5000" chance="8"/>

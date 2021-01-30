@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Shiny Vibrava" nickname="Shiny Vibrava" nameDescription="a Shiny Vibrava" race="blood" experience="10" speed="270" manacost="0" minLevel="40" maxLevel="50">
+<monster name="Shiny Vibrava" nickname="Vibrava" nameDescription="a Shiny Vibrava" race="blood" experience="10" speed="270" manacost="0" minLevel="40" maxLevel="50">
 	<health now="50" max="50"/>
 	<look type="1888" corpse="29510"/>
 	<targetchange interval="5000" chance="8"/>

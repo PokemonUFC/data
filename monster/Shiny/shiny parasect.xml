@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Shiny Parasect" nameDescription="a Shiny Parasect" nickname="Shiny Parasect" race="blood" experience="13" speed="230" manacost="0" minLevel="50" maxLevel="60">
+<monster name="Shiny Parasect" nameDescription="a Shiny Parasect" nickname="Parasect" race="blood" experience="13" speed="230" manacost="0" minLevel="50" maxLevel="60">
 	<health now="60" max="60" rate="1.1"/>
 	<look type="712" head="0" body="0" legs="0" feet="0" corpse="13867"/>
 	<targetchange interval="5000" chance="8"/>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Shiny Chansey" nameDescription="a Shiny Chansey" nickname="Shiny Chansey" race="blood" experience="15" speed="250" manacost="0" sex="0" minLevel="60" maxLevel="70">
+<monster name="Shiny Chansey" nameDescription="a Shiny Chansey" nickname="Chansey" race="blood" experience="15" speed="250" manacost="0" sex="0" minLevel="60" maxLevel="70">
 	<health now="250" max="250" rate="1.1"/>
 	<look type="812" head="0" body="0" legs="0" feet="0" corpse="14218"/>
 	<targetchange interval="5000" chance="8"/>

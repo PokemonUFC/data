@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Shiny Gorebyss" nickname="Shiny Gorebyss" nameDescription="a Shiny Gorebyss" race="blood" experience="10" speed="252" manacost="0" minLevel="40" maxLevel="50">
+<monster name="Shiny Gorebyss" nickname="Gorebyss" nameDescription="a Shiny Gorebyss" race="blood" experience="10" speed="252" manacost="0" minLevel="40" maxLevel="50">
 	<health now="55" max="55"/>
 	<look type="1927" corpse="29549"/>
 	<targetchange interval="5000" chance="8"/>

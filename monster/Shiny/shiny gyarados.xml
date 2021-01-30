@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Shiny Gyarados" nameDescription="a Shiny Gyarados" nickname="Shiny Gyarados" race="blood" experience="15" speed="281" manacost="0" minLevel="75" maxLevel="85">
+<monster name="Shiny Gyarados" nameDescription="a Shiny Gyarados" nickname="Gyarados" race="blood" experience="15" speed="281" manacost="0" minLevel="75" maxLevel="85">
 	<health now="95" max="95" rate="1.1"/>
 	<look type="829" head="0" body="0" legs="0" feet="0" corpse="14235"/>
 	<targetchange interval="5000" chance="8"/>

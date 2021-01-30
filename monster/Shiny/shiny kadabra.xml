@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Shiny Kadabra" nameDescription="a Shiny Kadabra" nickname="Shiny Kadabra" race="blood" experience="10" speed="305" manacost="0" minLevel="45" maxLevel="55">
+<monster name="Shiny Kadabra" nameDescription="a Shiny Kadabra" nickname="Kadabra" race="blood" experience="10" speed="305" manacost="0" minLevel="45" maxLevel="55">
 	<health now="40" max="40" rate="1.1"/>
 	<look type="742" head="0" body="0" legs="0" feet="0" corpse="14069"/>
 	<targetchange interval="5000" chance="8"/>

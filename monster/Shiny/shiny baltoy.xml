@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Shiny Baltoy" nickname="Shiny Baltoy" nameDescription="a Shiny Baltoy" race="blood" experience="5" speed="255" manacost="0" minLevel="20" maxLevel="30" sex="2">
+<monster name="Shiny Baltoy" nickname="Baltoy" nameDescription="a Shiny Baltoy" race="blood" experience="5" speed="255" manacost="0" minLevel="20" maxLevel="30" sex="2">
 	<health now="40" max="40"/>
 	<look type="1902" corpse="29524"/>
 	<targetchange interval="5000" chance="8"/>

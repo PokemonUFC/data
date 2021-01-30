@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Shiny Golduck" nameDescription="a Shiny Golduck" nickname="Shiny Golduck" race="blood" experience="15" speed="285" manacost="0" minLevel="55" maxLevel="65">
+<monster name="Shiny Golduck" nameDescription="a Shiny Golduck" nickname="Golduck" race="blood" experience="15" speed="285" manacost="0" minLevel="55" maxLevel="65">
 	<health now="80" max="80" rate="1.1"/>
 	<look type="733" head="0" body="0" legs="0" feet="0" corpse="14060"/>
 	<targetchange interval="5000" chance="8"/>

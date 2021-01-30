@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Shiny Crawdaunt" nickname="Shiny Crawdaunt" nameDescription="a Shiny Crawdaunt" race="blood" experience="10" speed="255" manacost="0" minLevel="40" maxLevel="50">
+<monster name="Shiny Crawdaunt" nickname="Crawdaunt" nameDescription="a Shiny Crawdaunt" race="blood" experience="10" speed="255" manacost="0" minLevel="40" maxLevel="50">
 	<health now="63" max="63"/>
 	<look type="1901" corpse="29523"/>
 	<targetchange interval="5000" chance="8"/>

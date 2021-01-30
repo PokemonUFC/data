@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Shiny Zangoose" nickname="Shiny Zangoose" nameDescription="a Shiny Zangoose" race="blood" experience="10" speed="290" manacost="0" minLevel="40" maxLevel="50">
+<monster name="Shiny Zangoose" nickname="Zangoose" nameDescription="a Shiny Zangoose" race="blood" experience="10" speed="290" manacost="0" minLevel="40" maxLevel="50">
 	<health now="73" max="73"/>
 	<look type="1894" corpse="29516"/>
 	<targetchange interval="5000" chance="8"/>

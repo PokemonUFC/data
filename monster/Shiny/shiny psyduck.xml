@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Shiny Psyduck" nameDescription="a Shiny Psyduck" nickname="Shiny Psyduck" race="blood" experience="12" speed="255" manacost="0" minLevel="12" maxLevel="22">
+<monster name="Shiny Psyduck" nameDescription="a Shiny Psyduck" nickname="Psyduck" race="blood" experience="12" speed="255" manacost="0" minLevel="12" maxLevel="22">
 	<health now="50" max="50" rate="1.1"/>
 	<look type="732" head="0" body="0" legs="0" feet="0" corpse="14059"/>
 	<targetchange interval="5000" chance="8"/>

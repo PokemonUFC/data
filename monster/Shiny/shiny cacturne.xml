@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Shiny Cacturne" nickname="Shiny Cacturne" nameDescription="a Shiny Cacturne" race="blood" experience="10" speed="255" manacost="0" minLevel="40" maxLevel="50">
+<monster name="Shiny Cacturne" nickname="Cacturne" nameDescription="a Shiny Cacturne" race="blood" experience="10" speed="255" manacost="0" minLevel="40" maxLevel="50">
 	<health now="70" max="70"/>
 	<look type="1891" corpse="29513"/>
 	<targetchange interval="5000" chance="8"/>

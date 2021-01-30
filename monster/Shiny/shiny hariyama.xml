@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Shiny Hariyama" nickname="Shiny Hariyama" nameDescription="a Shiny Hariyama" race="blood" experience="10" speed="250" manacost="0" minLevel="40" maxLevel="50">
+<monster name="Shiny Hariyama" nickname="Hariyama" nameDescription="a Shiny Hariyama" race="blood" experience="10" speed="250" manacost="0" minLevel="40" maxLevel="50">
 	<health now="144" max="144"/>
 	<look type="1856" corpse="29478"/>
 	<targetchange interval="5000" chance="8"/>

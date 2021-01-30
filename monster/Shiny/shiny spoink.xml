@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Shiny Spoink" nickname="Shiny Spoink" nameDescription="a Shiny Spoink" race="blood" experience="5" speed="260" manacost="0" minLevel="20" maxLevel="30">
+<monster name="Shiny Spoink" nickname="Spoink" nameDescription="a Shiny Spoink" race="blood" experience="5" speed="260" manacost="0" minLevel="20" maxLevel="30">
 	<health now="60" max="60"/>
 	<look type="1884" corpse="29506"/>
 	<targetchange interval="5000" chance="8"/>

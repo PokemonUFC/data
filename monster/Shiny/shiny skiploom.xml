@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Shiny Skiploom" nameDescription="a Shiny Skiploom" nickname="Shiny Skiploom" race="blood" experience="10" speed="280" manacost="0" minLevel="30" maxLevel="40">
+<monster name="Shiny Skiploom" nameDescription="a Shiny Skiploom" nickname="Skiploom" race="blood" experience="10" speed="280" manacost="0" minLevel="30" maxLevel="40">
 	<health now="55" max="55" rate="1.1"/>
 	<look type="1274" head="0" body="0" legs="0" feet="0" corpse="18982"/>
 	<targetchange interval="5000" chance="8"/>

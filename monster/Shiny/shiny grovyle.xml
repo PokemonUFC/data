@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Shiny Grovyle" nickname="Shiny Grovyle" nameDescription="a Shiny Grovyle" race="blood" experience="12" speed="295" manacost="0" minLevel="40" maxLevel="50">
+<monster name="Shiny Grovyle" nickname="Grovyle" nameDescription="a Shiny Grovyle" race="blood" experience="12" speed="295" manacost="0" minLevel="40" maxLevel="50">
 	<health now="50" max="50"/>
 	<look type="1812" corpse="29434"/>
 	<targetchange interval="5000" chance="8"/>

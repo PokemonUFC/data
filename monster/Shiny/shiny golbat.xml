@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Shiny Golbat" nameDescription="a Shiny Golbat" nickname="Shiny Golbat" race="blood" experience="12" speed="290" manacost="0" minLevel="30" maxLevel="40">
+<monster name="Shiny Golbat" nameDescription="a Shiny Golbat" nickname="Golbat" race="blood" experience="12" speed="290" manacost="0" minLevel="30" maxLevel="40">
 	<health now="75" max="75" rate="1.1"/>
 	<look type="707" head="0" body="0" legs="0" feet="0" corpse="13862"/>
 	<targetchange interval="5000" chance="8"/>

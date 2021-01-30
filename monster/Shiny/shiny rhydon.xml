@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Shiny Rhydon" nameDescription="a Shiny Rhydon" nickname="Shiny Rhydon" race="blood" experience="15" speed="240" manacost="0" minLevel="65" maxLevel="75">
+<monster name="Shiny Rhydon" nameDescription="a Shiny Rhydon" nickname="Rhydon" race="blood" experience="15" speed="240" manacost="0" minLevel="65" maxLevel="75">
 	<health now="105" max="105" rate="1.1"/>
 	<look type="811" head="0" body="0" legs="0" feet="0" corpse="14217"/>
 	<targetchange interval="5000" chance="8"/>

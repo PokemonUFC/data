@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Shiny Wigglytuff" nameDescription="a Shiny Wigglytuff" nickname="Shiny Wigglytuff" race="blood" experience="12" speed="245" manacost="0" minLevel="42" maxLevel="52">
+<monster name="Shiny Wigglytuff" nameDescription="a Shiny Wigglytuff" nickname="Wigglytuff" race="blood" experience="12" speed="245" manacost="0" minLevel="42" maxLevel="52">
 	<health now="140" max="140" rate="1.1"/>
 	<look type="705" head="0" body="0" legs="0" feet="0" corpse="13860"/>
 	<targetchange interval="5000" chance="8"/>

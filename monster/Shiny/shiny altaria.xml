@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Shiny Altaria" nickname="Shiny Altaria" nameDescription="an Altaria" race="blood" experience="10" speed="280" manacost="0" minLevel="40" maxLevel="50">
+<monster name="Shiny Altaria" nickname="Altaria" nameDescription="an Altaria" race="blood" experience="10" speed="280" manacost="0" minLevel="40" maxLevel="50">
 	<health now="75" max="75"/>
 	<look type="1893" corpse="29515"/>
 	<targetchange interval="5000" chance="8"/>

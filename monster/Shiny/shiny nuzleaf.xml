@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Shiny Nuzleaf" nickname="Shiny Nuzleaf" nameDescription="a Shiny Nuzleaf" race="blood" experience="10" speed="260" manacost="0" minLevel="40" maxLevel="50">
+<monster name="Shiny Nuzleaf" nickname="Nuzleaf" nameDescription="a Shiny Nuzleaf" race="blood" experience="10" speed="260" manacost="0" minLevel="40" maxLevel="50">
 	<health now="70" max="70"/>
 	<look type="1833" corpse="29455"/>
 	<targetchange interval="5000" chance="8"/>

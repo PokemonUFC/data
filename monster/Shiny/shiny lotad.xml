@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Shiny Lotad" nickname="Shiny Lotad" nameDescription="a Shiny Lotad" race="blood" experience="5" speed="230" manacost="0" minLevel="20" maxLevel="30">
+<monster name="Shiny Lotad" nickname="Lotad" nameDescription="a Shiny Lotad" race="blood" experience="5" speed="230" manacost="0" minLevel="20" maxLevel="30">
 	<health now="40" max="40"/>
 	<look type="1829" corpse="29451"/>
 	<targetchange interval="5000" chance="8"/>

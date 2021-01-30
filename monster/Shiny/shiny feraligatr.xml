@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Shiny Feraligatr" nameDescription="a Shiny Feraligatr" nickname="Shiny Feraligatr" race="blood" experience="15" speed="278" manacost="0" minLevel="85" maxLevel="95">
+<monster name="Shiny Feraligatr" nameDescription="a Shiny Feraligatr" nickname="Feraligatr" race="blood" experience="15" speed="278" manacost="0" minLevel="85" maxLevel="95">
 	<health now="85" max="85" rate="1.1"/>
 	<look type="1267" head="0" body="0" legs="0" feet="0" corpse="18975"/>
 	<targetchange interval="5000" chance="8"/>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Shiny Nidorina" nameDescription="a Shiny Nidorina" nickname="Shiny Nidorina" race="blood" experience="10" speed="256" manacost="0" sex="0" minLevel="25" maxLevel="35">
+<monster name="Shiny Nidorina" nameDescription="a Shiny Nidorina" nickname="Nidorina" race="blood" experience="10" speed="256" manacost="0" sex="0" minLevel="25" maxLevel="35">
 	<health now="70" max="70" rate="1.1"/>
 	<look type="695" head="0" body="0" legs="0" feet="0" corpse="13850"/>
 	<targetchange interval="5000" chance="8"/>

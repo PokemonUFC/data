@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Shiny Snorunt" nickname="Shiny Snorunt" nameDescription="a Shiny Snorunt" race="blood" experience="5" speed="250" manacost="0" minLevel="20" maxLevel="30">
+<monster name="Shiny Snorunt" nickname="Snorunt" nameDescription="a Shiny Snorunt" race="blood" experience="5" speed="250" manacost="0" minLevel="20" maxLevel="30">
 	<health now="50" max="50"/>
 	<look type="1920" corpse="29542"/>
 	<targetchange interval="5000" chance="8"/>

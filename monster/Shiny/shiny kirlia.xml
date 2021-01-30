@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Shiny Kirlia" nickname="Shiny Kirlia" nameDescription="a Shiny Kirlia" race="blood" experience="10" speed="250" manacost="0" minLevel="40" maxLevel="50">
+<monster name="Shiny Kirlia" nickname="Kirlia" nameDescription="a Shiny Kirlia" race="blood" experience="10" speed="250" manacost="0" minLevel="40" maxLevel="50">
 	<health now="38" max="38"/>
 	<look type="1840" corpse="29462"/>
 	<targetchange interval="5000" chance="8"/>

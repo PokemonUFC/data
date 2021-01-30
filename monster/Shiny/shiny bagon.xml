@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Shiny Bagon" nickname="Shiny Bagon" nameDescription="a Shiny Bagon" race="blood" experience="5" speed="250" manacost="0" minLevel="20" maxLevel="30">
+<monster name="Shiny Bagon" nickname="Bagon" nameDescription="a Shiny Bagon" race="blood" experience="5" speed="250" manacost="0" minLevel="20" maxLevel="30">
 	<health now="45" max="45"/>
 	<look type="1930" corpse="29552"/>
 	<targetchange interval="5000" chance="8"/>

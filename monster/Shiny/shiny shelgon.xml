@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Shiny Shelgon" nickname="Shiny Shelgon" nameDescription="a Shiny Shelgon" race="blood" experience="10" speed="250" manacost="0" minLevel="40" maxLevel="50">
+<monster name="Shiny Shelgon" nickname="Shelgon" nameDescription="a Shiny Shelgon" race="blood" experience="10" speed="250" manacost="0" minLevel="40" maxLevel="50">
 	<health now="65" max="65"/>
 	<look type="1931" corpse="29553"/>
 	<targetchange interval="5000" chance="8"/>

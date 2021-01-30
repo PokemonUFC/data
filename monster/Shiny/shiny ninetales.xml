@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Shiny Ninetales" nameDescription="a Shiny Ninetales" nickname="Shiny Ninetales" race="blood" experience="15" speed="300" manacost="0" minLevel="65" maxLevel="75">
+<monster name="Shiny Ninetales" nameDescription="a Shiny Ninetales" nickname="Ninetales" race="blood" experience="15" speed="300" manacost="0" minLevel="65" maxLevel="75">
 	<health now="73" max="73" rate="1.1"/>
 	<look type="703" head="0" body="0" legs="0" feet="0" corpse="13858"/>
 	<targetchange interval="5000" chance="8"/>

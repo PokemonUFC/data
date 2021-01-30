@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Shiny Gloom" nameDescription="a Shiny Gloom" nickname="Shiny Gloom" race="blood" experience="10" speed="240" manacost="0" minLevel="18" maxLevel="28">
+<monster name="Shiny Gloom" nameDescription="a Shiny Gloom" nickname="Gloom" race="blood" experience="10" speed="240" manacost="0" minLevel="18" maxLevel="28">
 	<health now="60" max="60" rate="1.1"/>
 	<look type="709" head="0" body="0" legs="0" feet="0" corpse="13864"/>
 	<targetchange interval="5000" chance="8"/>
