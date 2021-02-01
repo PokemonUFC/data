@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Shiny Staryu" nameDescription="a Shiny Staryu" nickname="Staryu" race="blood" experience="12" speed="285" manacost="0" minLevel="15" maxLevel="25" sex="2">
+<monster name="Shiny Staryu" nameDescription="a Shiny Staryu" nickname="Shiny Staryu" race="blood" experience="12" speed="285" manacost="0" minLevel="15" maxLevel="25" sex="2">
 	<health now="30" max="30" rate="1.1"/>
 	<look type="819" head="0" body="0" legs="0" feet="0" corpse="14225"/>
 	<targetchange interval="5000" chance="8"/>

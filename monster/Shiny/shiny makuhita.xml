@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Shiny Makuhita" nickname="Makuhita" nameDescription="a Shiny Makuhita" race="blood" experience="5" speed="225" manacost="0" minLevel="20" maxLevel="30">
+<monster name="Shiny Makuhita" nickname="Shiny Makuhita" nameDescription="a Shiny Makuhita" race="blood" experience="5" speed="225" manacost="0" minLevel="20" maxLevel="30">
 	<health now="72" max="72"/>
 	<look type="1855" corpse="29477"/>
 	<targetchange interval="5000" chance="8"/>

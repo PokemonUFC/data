@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Shiny Cubone" nameDescription="a Shiny Cubone" nickname="Cubone" race="blood" experience="10" speed="235" manacost="0" minLevel="20" maxLevel="30">
+<monster name="Shiny Cubone" nameDescription="a Shiny Cubone" nickname="Shiny Cubone" race="blood" experience="10" speed="235" manacost="0" minLevel="20" maxLevel="30">
 	<health now="50" max="50" rate="1.1"/>
 	<look type="803" head="0" body="0" legs="0" feet="0" corpse="14209"/>
 	<targetchange interval="5000" chance="8"/>

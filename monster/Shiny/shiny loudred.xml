@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Shiny Loudred" nickname="Loudred" nameDescription="a Shiny Loudred" race="blood" experience="10" speed="248" manacost="0" minLevel="40" maxLevel="50">
+<monster name="Shiny Loudred" nickname="Shiny Loudred" nameDescription="a Shiny Loudred" race="blood" experience="10" speed="248" manacost="0" minLevel="40" maxLevel="50">
 	<health now="84" max="84"/>
 	<look type="1853" corpse="29475"/>
 	<targetchange interval="5000" chance="8"/>

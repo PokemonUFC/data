@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Shiny Farfetchd" nameDescription="a Shiny Farfetchd" nickname="Farfetchd" race="blood" experience="12" speed="260" manacost="0" minLevel="40" maxLevel="50">
+<monster name="Shiny Farfetchd" nameDescription="a Shiny Farfetchd" nickname="Shiny Farfetchd" race="blood" experience="12" speed="260" manacost="0" minLevel="40" maxLevel="50">
 	<health now="52" max="52" rate="1.1"/>
 	<look type="761" head="0" body="0" legs="0" feet="0" corpse="14088"/>
 	<targetchange interval="5000" chance="8"/>

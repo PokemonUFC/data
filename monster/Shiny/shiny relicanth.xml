@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Shiny Relicanth" nickname="Relicanth" nameDescription="a Shiny Relicanth" race="blood" experience="10" speed="255" manacost="0" minLevel="40" maxLevel="50">
+<monster name="Shiny Relicanth" nickname="Shiny Relicanth" nameDescription="a Shiny Relicanth" race="blood" experience="10" speed="255" manacost="0" minLevel="40" maxLevel="50">
 	<health now="100" max="100"/>
 	<look type="1928" corpse="29550"/>
 	<targetchange interval="5000" chance="8"/>

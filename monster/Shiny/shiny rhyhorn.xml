@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Shiny Rhyhorn" nameDescription="a Shiny Rhyhorn" nickname="Rhyhorn" race="blood" experience="12" speed="225" manacost="0" minLevel="35" maxLevel="45">
+<monster name="Shiny Rhyhorn" nameDescription="a Shiny Rhyhorn" nickname="Shiny Rhyhorn" race="blood" experience="12" speed="225" manacost="0" minLevel="35" maxLevel="45">
 	<health now="80" max="80" rate="1.1"/>
 	<look type="810" head="0" body="0" legs="0" feet="0" corpse="14216"/>
 	<targetchange interval="5000" chance="8"/>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Shiny Starmie" nameDescription="a Shiny Starmie" nickname="Starmie" race="blood" experience="7" speed="315" manacost="0" minLevel="45" maxLevel="55" sex="2">
+<monster name="Shiny Starmie" nameDescription="a Shiny Starmie" nickname="Shiny Starmie" race="blood" experience="7" speed="315" manacost="0" minLevel="45" maxLevel="55" sex="2">
 	<health now="60" max="60" rate="1.1"/>
 	<look type="820" head="0" body="0" legs="0" feet="0" corpse="14226"/>
 	<targetchange interval="5000" chance="8"/>

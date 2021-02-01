@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Shiny Omastar" nameDescription="a Shiny Omastar" nickname="Omastar" race="blood" experience="15" speed="255" manacost="0" minLevel="70" maxLevel="80">
+<monster name="Shiny Omastar" nameDescription="a Shiny Omastar" nickname="Shiny Omastar" race="blood" experience="15" speed="255" manacost="0" minLevel="70" maxLevel="80">
 	<health now="70" max="70" rate="1.1"/>
 	<look type="838" head="0" body="0" legs="0" feet="0" corpse="14244"/>
 	<targetchange interval="5000" chance="8"/>

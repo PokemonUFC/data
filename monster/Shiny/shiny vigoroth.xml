@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Shiny Vigoroth" nickname="Vigoroth" nameDescription="a Shiny Vigoroth" race="blood" experience="10" speed="290" manacost="0" minLevel="40" maxLevel="50">
+<monster name="Shiny Vigoroth" nickname="Shiny Vigoroth" nameDescription="a Shiny Vigoroth" race="blood" experience="10" speed="290" manacost="0" minLevel="40" maxLevel="50">
 	<health now="80" max="80"/>
 	<look type="1847" corpse="29469"/>
 	<targetchange interval="5000" chance="8"/>

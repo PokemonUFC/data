@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Shiny Mightyena" nickname="Mightyena" nameDescription="a Shiny Mightyena" race="blood" experience="10" speed="270" manacost="0" minLevel="40" maxLevel="50">
+<monster name="Shiny Mightyena" nickname="Shiny Mightyena" nameDescription="a Shiny Mightyena" race="blood" experience="10" speed="270" manacost="0" minLevel="40" maxLevel="50">
 	<health now="70" max="70"/>
 	<look type="1821" corpse="29443"/>
 	<targetchange interval="5000" chance="8"/>

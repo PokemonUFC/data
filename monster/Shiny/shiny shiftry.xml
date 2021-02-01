@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Shiny Shiftry" nickname="Shiftry" nameDescription="a Shiny Shiftry" race="blood" experience="15" speed="280" manacost="0" minLevel="85" maxLevel="95">
+<monster name="Shiny Shiftry" nickname="Shiny Shiftry" nameDescription="a Shiny Shiftry" race="blood" experience="15" speed="280" manacost="0" minLevel="85" maxLevel="95">
 	<health now="90" max="90"/>
 	<look type="1834" corpse="29456"/>
 	<targetchange interval="5000" chance="8"/>

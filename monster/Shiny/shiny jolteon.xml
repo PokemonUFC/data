@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Shiny Jolteon" nameDescription="a Shiny Jolteon" nickname="Jolteon" race="blood" experience="10" speed="330" manacost="0" minLevel="55" maxLevel="65">
+<monster name="Shiny Jolteon" nameDescription="a Shiny Jolteon" nickname="Shiny Jolteon" race="blood" experience="10" speed="330" manacost="0" minLevel="55" maxLevel="65">
 	<health now="65" max="65" rate="1.1"/>
 	<look type="834" head="0" body="0" legs="0" feet="0" corpse="14240"/>
 	<targetchange interval="5000" chance="8"/>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Shiny Venusaur" nameDescription="a Shiny Venusaur" nickname="Venusaur" race="blood" experience="17" speed="280" manacost="0" minLevel="85" maxLevel="95">
+<monster name="Shiny Venusaur" nameDescription="a Shiny Venusaur" nickname="Shiny Venusaur" race="blood" experience="17" speed="280" manacost="0" minLevel="85" maxLevel="95">
 	<health now="80" max="80" rate="1.1"/>
 	<look type="668" head="0" body="0" legs="0" feet="0" corpse="13823"/>
 	<targetchange interval="5000" chance="8"/>

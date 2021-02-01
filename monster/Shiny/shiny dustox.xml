@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Shiny Dustox" nickname="Dustox" nameDescription="a Shiny Dustox" race="blood" experience="12" speed="265" manacost="0" minLevel="30" maxLevel="40">
+<monster name="Shiny Dustox" nickname="Shiny Dustox" nameDescription="a Shiny Dustox" race="blood" experience="12" speed="265" manacost="0" minLevel="30" maxLevel="40">
 	<health now="60" max="60"/>
 	<look type="1828" corpse="29450"/>
 	<targetchange interval="5000" chance="8"/>

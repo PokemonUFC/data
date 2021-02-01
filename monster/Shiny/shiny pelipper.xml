@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Shiny Pelipper" nickname="Pelipper" nameDescription="a Shiny Pelipper" race="blood" experience="10" speed="265" manacost="0" minLevel="40" maxLevel="50">
+<monster name="Shiny Pelipper" nickname="Shiny Pelipper" nameDescription="a Shiny Pelipper" race="blood" experience="10" speed="265" manacost="0" minLevel="40" maxLevel="50">
 	<health now="60" max="60"/>
 	<look type="1838" corpse="29460"/>
 	<targetchange interval="5000" chance="8"/>

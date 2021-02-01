@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Shiny Wailmer" nickname="Wailmer" nameDescription="a Shiny Wailmer" race="blood" experience="5" speed="260" manacost="0" minLevel="20" maxLevel="30">
+<monster name="Shiny Wailmer" nickname="Shiny Wailmer" nameDescription="a Shiny Wailmer" race="blood" experience="5" speed="260" manacost="0" minLevel="20" maxLevel="30">
 	<health now="130" max="130"/>
 	<look type="1879" corpse="29501"/>
 	<targetchange interval="5000" chance="8"/>

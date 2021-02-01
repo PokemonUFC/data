@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Shiny Dugtrio" nameDescription="a Shiny Dugtrio" nickname="Dugtrio" race="blood" experience="12" speed="320" manacost="0" minLevel="35" maxLevel="45">
+<monster name="Shiny Dugtrio" nameDescription="a Shiny Dugtrio" nickname="Shiny Dugtrio" race="blood" experience="12" speed="320" manacost="0" minLevel="35" maxLevel="45">
 	<health now="35" max="35" rate="1.1"/>
 	<look type="729" head="0" body="0" legs="0" feet="0" corpse="14056"/>
 	<targetchange interval="5000" chance="8"/>

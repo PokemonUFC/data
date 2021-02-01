@@ -36,6 +36,9 @@ RIDE_SPEED = {
     ["Camerupt"] = 110,
     ["Mightyena"] = 120,
     ["Torkoal"] = 100,
+    -- 4th Gen
+    ["Torterra"] = 120,
+	["Infernape"] = 140,
 }
 
 local tmp = table.deepcopy(RIDE_SPEED)

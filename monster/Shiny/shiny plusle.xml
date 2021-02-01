@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Shiny Plusle" nickname="Plusle" nameDescription="a Shiny Plusle" race="blood" experience="10" speed="295" manacost="0" minLevel="40" maxLevel="50">
+<monster name="Shiny Plusle" nickname="Shiny Plusle" nameDescription="a Shiny Plusle" race="blood" experience="10" speed="295" manacost="0" minLevel="40" maxLevel="50">
 	<health now="60" max="60"/>
 	<look type="1870" corpse="29492"/>
 	<targetchange interval="5000" chance="8"/>

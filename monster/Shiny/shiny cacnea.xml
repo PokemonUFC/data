@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Shiny Cacnea" nickname="Cacnea" nameDescription="a Shiny Cacnea" race="blood" experience="5" speed="235" manacost="0" minLevel="20" maxLevel="30">
+<monster name="Shiny Cacnea" nickname="Shiny Cacnea" nameDescription="a Shiny Cacnea" race="blood" experience="5" speed="235" manacost="0" minLevel="20" maxLevel="30">
 	<health now="50" max="50"/>
 	<look type="1890" corpse="29512"/>
 	<targetchange interval="5000" chance="8"/>

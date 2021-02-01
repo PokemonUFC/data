@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Shiny Clamperl" nickname="Clamperl" nameDescription="a Shiny Clamperl" race="blood" experience="5" speed="232" manacost="0" minLevel="20" maxLevel="30">
+<monster name="Shiny Clamperl" nickname="Shiny Clamperl" nameDescription="a Shiny Clamperl" race="blood" experience="5" speed="232" manacost="0" minLevel="20" maxLevel="30">
 	<health now="35" max="35"/>
 	<look type="1925" corpse="29547"/>
 	<targetchange interval="5000" chance="8"/>

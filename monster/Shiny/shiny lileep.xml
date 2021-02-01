@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Shiny Lileep" nickname="Lileep" nameDescription="a Shiny Lileep" race="blood" experience="5" speed="223" manacost="0" minLevel="20" maxLevel="30">
+<monster name="Shiny Lileep" nickname="Shiny Lileep" nameDescription="a Shiny Lileep" race="blood" experience="5" speed="223" manacost="0" minLevel="20" maxLevel="30">
 	<health now="66" max="66"/>
 	<look type="1904" corpse="29526"/>
 	<targetchange interval="5000" chance="8"/>

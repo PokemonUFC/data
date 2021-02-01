@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Shiny Slaking" nickname="Slaking" nameDescription="a Shiny Slaking" race="blood" experience="15" speed="300" manacost="0" minLevel="85" maxLevel="95">
+<monster name="Shiny Slaking" nickname="Shiny Slaking" nameDescription="a Shiny Slaking" race="blood" experience="15" speed="300" manacost="0" minLevel="85" maxLevel="95">
 	<health now="150" max="150"/>
 	<look type="1848" corpse="29470"/>
 	<targetchange interval="5000" chance="8"/>

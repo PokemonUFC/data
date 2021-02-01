@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Shiny Aggron" nickname="Aggron" nameDescription="an Aggron" race="blood" experience="15" speed="250" manacost="0" minLevel="85" maxLevel="95">
+<monster name="Shiny Aggron" nickname="Shiny Aggron" nameDescription="an Aggron" race="blood" experience="15" speed="250" manacost="0" minLevel="85" maxLevel="95">
 	<health now="70" max="70"/>
 	<look type="1865" corpse="29487"/>
 	<targetchange interval="5000" chance="8"/>

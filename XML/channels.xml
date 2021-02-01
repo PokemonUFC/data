@@ -550,5 +550,102 @@
 	<channel id="612" name="Staraptor" active="no"/>
 	<channel id="613" name="Bidoof" active="no"/>
 	<channel id="614" name="Bibarel" active="no"/>
+	<channel id="615" name="Kricketot" active="no"/>
+	<channel id="616" name="Kricketune" active="no"/>
+	<channel id="617" name="Shinx" active="no"/>
+	<channel id="618" name="Luxio" active="no"/>
+	<channel id="619" name="Luxray" active="no"/>
+	<channel id="620" name="Budew" active="no"/>
+	<channel id="621" name="Roserade" active="no"/>
+	<channel id="622" name="Cranidos" active="no"/>
+	<channel id="623" name="Rampardos" active="no"/>
+	<channel id="624" name="Shieldon" active="no"/>
+	<channel id="625" name="Bastiodon" active="no"/>
+	<channel id="626" name="Burmy" active="no"/>
+	<channel id="627" name="Wormadam" active="no"/>
+	<channel id="628" name="Mothim" active="no"/>
+	<channel id="629" name="Combee" active="no"/>
+	<channel id="630" name="Vespiquen" active="no"/>
+	<channel id="631" name="Pachirisu" active="no"/>
+	<channel id="632" name="Buizel" active="no"/>
+	<channel id="633" name="Floatzel" active="no"/>
+	<channel id="634" name="Cherubi" active="no"/>
+	<channel id="635" name="Cherrim" active="no"/>
+	<channel id="636" name="Shellos" active="no"/>
+	<channel id="637" name="Gastrodon" active="no"/>
+	<channel id="638" name="Ambipom" active="no"/>
+	<channel id="639" name="Drifloon" active="no"/>
+	<channel id="640" name="Drifblim" active="no"/>
+	<channel id="641" name="Buneary" active="no"/>
+	<channel id="642" name="Lopunny" active="no"/>
+	<channel id="643" name="Mismagius" active="no"/>
+	<channel id="644" name="Honchkrow" active="no"/>
+	<channel id="645" name="Glameow" active="no"/>
+	<channel id="646" name="Purugly" active="no"/>
+	<channel id="647" name="Chingling" active="no"/>
+	<channel id="648" name="Stunky" active="no"/>
+	<channel id="649" name="Skuntank" active="no"/>
+	<channel id="650" name="Bronzor" active="no"/>
+	<channel id="651" name="Bronzong" active="no"/>
+	<channel id="652" name="Bonsly" active="no"/>
+	<channel id="653" name="Mime Jr." active="no"/>
+	<channel id="654" name="Happiny" active="no"/>
+	<channel id="655" name="Chatot" active="no"/>
+	<channel id="656" name="Spiritomb" active="no"/>
+	<channel id="657" name="Gible" active="no"/>
+	<channel id="658" name="Gabite" active="no"/>
+	<channel id="659" name="Garchomp" active="no"/>
+	<channel id="660" name="Munchlax" active="no"/>
+	<channel id="661" name="Riolu" active="no"/>
+	<channel id="662" name="Lucario" active="no"/>
+	<channel id="663" name="Hippopotas" active="no"/>
+	<channel id="664" name="Hippowdon" active="no"/>
+	<channel id="665" name="Skorupi" active="no"/>
+	<channel id="666" name="Drapion" active="no"/>
+	<channel id="667" name="Croagunk" active="no"/>
+	<channel id="668" name="Toxicroak" active="no"/>
+	<channel id="669" name="Carnivine" active="no"/>
+	<channel id="670" name="Finneon" active="no"/>
+	<channel id="671" name="Lumineon" active="no"/>
+	<channel id="672" name="Mantyke" active="no"/>
+	<channel id="673" name="Snover" active="no"/>
+	<channel id="674" name="Abomasnow" active="no"/>
+	<channel id="675" name="Weavile" active="no"/>
+	<channel id="676" name="Magnezone" active="no"/>
+	<channel id="677" name="Lickilicky" active="no"/>
+	<channel id="678" name="Rhyperior" active="no"/>
+	<channel id="679" name="Tangrowth" active="no"/>
+	<channel id="680" name="Electivire" active="no"/>
+	<channel id="681" name="Magmortar" active="no"/>
+	<channel id="682" name="Togekiss" active="no"/>
+	<channel id="683" name="Yanmega" active="no"/>
+	<channel id="684" name="Leafeon" active="no"/>
+	<channel id="685" name="Glaceon" active="no"/>
+	<channel id="686" name="Gliscor" active="no"/>
+	<channel id="687" name="Mamoswine" active="no"/>
+	<channel id="688" name="Porygon-Z" active="no"/>
+	<channel id="689" name="Gallade" active="no"/>
+	<channel id="690" name="Probopass" active="no"/>
+	<channel id="691" name="Dusknoir" active="no"/>
+	<channel id="692" name="Froslass" active="no"/>
+	<channel id="693" name="Rotom" active="no"/>
+	<channel id="694" name="Uxie" active="no"/>
+	<channel id="695" name="Mesprit" active="no"/>
+	<channel id="696" name="Azelf" active="no"/>
+	<channel id="697" name="Dialga" active="no"/>
+	<channel id="698" name="Palkia" active="no"/>
+	<channel id="699" name="Heatran" active="no"/>
+	<channel id="700" name="Regigigas" active="no"/>
+	<channel id="701" name="Giratina" active="no"/>
+	<channel id="702" name="Cresselia" active="no"/>
+	<channel id="703" name="Phione" active="no"/>
+	<channel id="704" name="Manaphy" active="no"/>
+	<channel id="705" name="Darkrai" active="no"/>
+	<channel id="706" name="Shaymin" active="no"/>
+	<channel id="707" name="Arceus" active="no"/>
+
+
+
+	
 
 </channels>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Shiny Flygon" nickname="Flygon" nameDescription="a Shiny Flygon" race="blood" experience="15" speed="300" manacost="0" minLevel="85" maxLevel="95">
+<monster name="Shiny Flygon" nickname="Shiny Flygon" nameDescription="a Shiny Flygon" race="blood" experience="15" speed="300" manacost="0" minLevel="85" maxLevel="95">
 	<health now="80" max="80"/>
 	<look type="1889" corpse="29511"/>
 	<targetchange interval="5000" chance="8"/>

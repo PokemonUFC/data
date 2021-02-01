@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Shiny Azurill" nickname="Azurill" nameDescription="an Azurill" race="blood" experience="5" speed="220" manacost="0" minLevel="1" maxLevel="10">
+<monster name="Shiny Azurill" nickname="Shiny Azurill" nameDescription="an Azurill" race="blood" experience="5" speed="220" manacost="0" minLevel="1" maxLevel="10">
 	<health now="30" max="30"/>
 	<look type="1857" corpse="29479"/>
 	<targetchange interval="5000" chance="8"/>

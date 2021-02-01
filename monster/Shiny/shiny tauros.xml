@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Shiny Tauros" nameDescription="a Shiny Tauros" nickname="Tauros" race="blood" experience="10" speed="310" manacost="0" sex="1" minLevel="45" maxLevel="55">
+<monster name="Shiny Tauros" nameDescription="a Shiny Tauros" nickname="Shiny Tauros" race="blood" experience="10" speed="310" manacost="0" sex="1" minLevel="45" maxLevel="55">
 	<health now="75" max="75" rate="1.1"/>
 	<look type="827" head="0" body="0" legs="0" feet="0" corpse="14233"/>
 	<targetchange interval="5000" chance="8"/>

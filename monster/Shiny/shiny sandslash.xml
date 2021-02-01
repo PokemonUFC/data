@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Shiny Sandslash" nameDescription="a Shiny Sandslash" nickname="Sandslash" race="blood" experience="15" speed="265" manacost="0" minLevel="55" maxLevel="65">
+<monster name="Shiny Sandslash" nameDescription="a Shiny Sandslash" nickname="Shiny Sandslash" race="blood" experience="15" speed="265" manacost="0" minLevel="55" maxLevel="65">
 	<health now="75" max="75" rate="1.1"/>
 	<look type="693" head="0" body="0" legs="0" feet="0" corpse="13848"/>
 	<targetchange interval="5000" chance="8"/>

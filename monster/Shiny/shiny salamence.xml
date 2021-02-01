@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Shiny Salamence" nickname="Salamence" nameDescription="a Shiny Salamence" race="blood" experience="15" speed="300" manacost="0" minLevel="85" maxLevel="95">
+<monster name="Shiny Salamence" nickname="Shiny Salamence" nameDescription="a Shiny Salamence" race="blood" experience="15" speed="300" manacost="0" minLevel="85" maxLevel="95">
 	<health now="95" max="95"/>
 	<look type="1932" corpse="29554"/>
 	<targetchange interval="5000" chance="8"/>

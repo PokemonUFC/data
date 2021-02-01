@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Shiny Grumpig" nickname="Grumpig" nameDescription="a Shiny Grumpig" race="blood" experience="10" speed="280" manacost="0" minLevel="40" maxLevel="50">
+<monster name="Shiny Grumpig" nickname="Shiny Grumpig" nameDescription="a Shiny Grumpig" race="blood" experience="10" speed="280" manacost="0" minLevel="40" maxLevel="50">
 	<health now="80" max="80"/>
 	<look type="1885" corpse="29507"/>
 	<targetchange interval="5000" chance="8"/>

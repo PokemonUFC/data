@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Shiny Spheal" nickname="Spheal" escription="a Shiny Spheal" race="blood" experience="5" speed="225" manacost="0" minLevel="20" maxLevel="30">
+<monster name="Shiny Spheal" nickname="Shiny Spheal" escription="a Shiny Spheal" race="blood" experience="5" speed="225" manacost="0" minLevel="20" maxLevel="30">
 	<health now="70" max="70"/>
 	<look type="1922" corpse="29544"/>
 	<targetchange interval="5000" chance="8"/>

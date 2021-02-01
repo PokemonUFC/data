@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Shiny Armaldo" nickname="Armaldo" nameDescription="an Armaldo" race="blood" experience="10" speed="245" manacost="0" minLevel="40" maxLevel="50">
+<monster name="Shiny Armaldo" nickname="Shiny Armaldo" nameDescription="an Armaldo" race="blood" experience="10" speed="245" manacost="0" minLevel="40" maxLevel="50">
 	<health now="75" max="75"/>
 	<look type="1907" corpse="29529"/>
 	<targetchange interval="5000" chance="8"/>
