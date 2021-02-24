@@ -70,7 +70,7 @@ npcHandler:setCallback(CALLBACK_MESSAGE_DEFAULT, function(cid, type, msg)
     end
 
     if (getCreatureStorage(cid, FIRST_POKEMON_STORAGE) ~= QUEST_STATUS.FINISHED and not getPlayerGotStarterPokemon(cid)) then
-        if (msgcontains(msg, 'charmander')) then
+        if (msgcontains(msg, 'Charmander')) then
             lastChoice[cid] = 'Charmander'
             npcHandler.talkState[cid] = TALKSTATE_CONFIRM
             selfSay("{YES} or {NO}", cid)
@@ -87,31 +87,89 @@ npcHandler:setCallback(CALLBACK_MESSAGE_DEFAULT, function(cid, type, msg)
             npcHandler.talkState[cid] = TALKSTATE_CONFIRM
             selfSay("{YES} or {NO}", cid)
             selfSay("You really want a Bulbasaur?", cid)
+			
+		elseif (msgcontains(msg, 'chikorita')) then
+            lastChoice[cid] = 'Chikorita'
+            npcHandler.talkState[cid] = TALKSTATE_CONFIRM
+            selfSay("{YES} or {NO}", cid)
+            selfSay("You really want a Chikorita?", cid)
+
+        elseif (msgcontains(msg, 'cyndaquil')) then
+            lastChoice[cid] = 'Cyndaquil'
+            npcHandler.talkState[cid] = TALKSTATE_CONFIRM
+            selfSay("{YES} or {NO}", cid)
+            selfSay("You really want a Cyndaquil?", cid)
+			
+		elseif (msgcontains(msg, 'totodile')) then
+            lastChoice[cid] = 'Totodile'
+            npcHandler.talkState[cid] = TALKSTATE_CONFIRM
+            selfSay("{YES} or {NO}", cid)
+            selfSay("You really want a Totodile?", cid)
+
+        elseif (msgcontains(msg, 'treecko')) then
+            lastChoice[cid] = 'Treecko'
+            npcHandler.talkState[cid] = TALKSTATE_CONFIRM
+            selfSay("{YES} or {NO}", cid)
+            selfSay("You really want a Treecko?", cid)
+			
+		elseif (msgcontains(msg, 'torchic')) then
+            lastChoice[cid] = 'Torchic'
+            npcHandler.talkState[cid] = TALKSTATE_CONFIRM
+            selfSay("{YES} or {NO}", cid)
+            selfSay("You really want a Torchic?", cid)
+
+        elseif (msgcontains(msg, 'mudkip')) then
+            lastChoice[cid] = 'Mudkip'
+            npcHandler.talkState[cid] = TALKSTATE_CONFIRM
+            selfSay("{YES} or {NO}", cid)
+            selfSay("You really want a Mudkip?", cid)
+			
+		elseif (msgcontains(msg, 'turtwig')) then
+            lastChoice[cid] = 'Turtwig'
+            npcHandler.talkState[cid] = TALKSTATE_CONFIRM
+            selfSay("{YES} or {NO}", cid)
+            selfSay("You really want a Turtwig?", cid)
+			
+		elseif (msgcontains(msg, 'chimchar')) then
+            lastChoice[cid] = 'Chimchar'
+            npcHandler.talkState[cid] = TALKSTATE_CONFIRM
+            selfSay("{YES} or {NO}", cid)
+            selfSay("You really want a Chimchar?", cid)
+
+        elseif (msgcontains(msg, 'piplup')) then
+            lastChoice[cid] = 'Piplup'
+            npcHandler.talkState[cid] = TALKSTATE_CONFIRM
+            selfSay("{YES} or {NO}", cid)
+            selfSay("You really want a Piplup?", cid)
 
         elseif (npcHandler.talkState[cid] == TALKSTATE_CONFIRM) then
-            if (msgcontains(msg, { 'yes', 'sim' })) then
+            if (msgcontains(msg, { 'yes', 'si' })) then
                 selfSay("Your Pokemon will be {female} or {male}?", cid)
                 npcHandler.talkState[cid] = TALKSTATE_CONFIRM_SEX
             else
-                selfSay("You can choose a {Charmander} or a {Squirtle} or a {Bulbasaur}. What is your choice?", cid)
+                selfSay("You can choose any starter: Generation I: {Charmander},{Squirtle} or a {Bulbasaur}. Generation II {Chikorita}, {Cyndaquil} or a {Tototile}. Generation III. {Treecko},{Torchic} or a {Mudkip}. Generation IV: {Turtwig},{Chimchar} or a {Piplup}.  What is your choice?", cid)
                 npcHandler.talkState[cid] = nil
             end
 
         elseif (npcHandler.talkState[cid] == TALKSTATE_CONFIRM_SEX) then
             local sex = nil
-            if (msgcontains(msg, 'female') or msgcontains(msg, 'femea')) then
+            if (msgcontains(msg, 'female') or msgcontains(msg, 'girl')) then
                 sex = POKEMON_SEX_FEMALE
-            elseif (msgcontains(msg, 'male') or msgcontains(msg, 'macho')) then
+            elseif (msgcontains(msg, 'male') or msgcontains(msg, 'boy')) then
                 sex = POKEMON_SEX_MALE
             end
 
             if (sex) then
-                doCreatePokemonBall(cid, "soul", lastChoice[cid], 5, sex, nil, 14, cid, false, 999999, nil, nil, nil, nil, nil, nil, nil, nil, nil, function(ball) setBallOriginalTrainer(ball, cid) end)
+                doCreatePokemonBall(cid, "ultra", "Charmander", 5, 1, nil, 15, cid, false, 999999, nil, nil, nil, nil, nil, nil, nil, nil, nil, function(ball) setBallOriginalTrainer(ball, cid) end)
+                setPlayerGotStarterPokemon(cid, true)
+				doCreatePokemonBall(cid, "ultra", "Squirtle", 5, 0, nil, 15, cid, false, 999999, nil, nil, nil, nil, nil, nil, nil, nil, nil, function(ball) setBallOriginalTrainer(ball, cid) end)
+                setPlayerGotStarterPokemon(cid, true)
+				doCreatePokemonBall(cid, "ultra", "Bulbasaur", 5, sex, nil, 15, cid, false, 999999, nil, nil, nil, nil, nil, nil, nil, nil, nil, function(ball) setBallOriginalTrainer(ball, cid) end)
                 setPlayerGotStarterPokemon(cid, true)
                 doPlayerAddMainItems(cid)
                 doCreatureSetStorage(cid, FIRST_POKEMON_STORAGE, QUEST_STATUS.FINISHED)
                 --                          selfSay("Here is, congratulations! Now which city you want to start out? {Viridian}, {Pewter}, {Cerulean}, {Saffron}, {Celadon}, {Vermilion} or {Fuchsia}.", cid)
-                selfSay("Good choice! Congratulations, here is your first {Pokemon}! Now, let's see if you're able to call him out of the Pokeball.", cid)
+                selfSay("I don't care about your choice, have all 3 plus this 6 eggs... Find a way to incubate them in the north of Cerulean.", cid)
                 doSendPlayerExtendedOpcode(cid, EXTENDED_IDS.GAMEPLAY_TUTORIAL_IMAGE, "002-callPokemon")
                 doCreatureSetStorage(cid, 8751, QUEST_STATUS.STARTED) -- Prof Oak quest auto-start
                 npcHandler.talkState[cid] = nil
@@ -124,7 +182,7 @@ npcHandler:setCallback(CALLBACK_MESSAGE_DEFAULT, function(cid, type, msg)
             return true
 
         else
-            selfSay("You can choose a {Charmander} or a {Squirtle} or a {Bulbasaur}. What is your choice?", cid)
+            selfSay("You can choose any starter: Generation I: {Charmander},{Squirtle} or a {Bulbasaur}. Generation II {Chikorita}, {Cyndaquil} or a {Tototile}. Generation III. {Treecko},{Torchic} or a {Mudkip}. Generation IV: {Turtwig},{Chimchar} or a {Piplup}.  What is your choice?", cid)
         end
 
         --    elseif (getCreatureStorage(cid, FIRSTY_CITY_STORAGE) ~= QUEST_STATUS.FINISHED and
@@ -154,7 +212,7 @@ end)
 
 npcHandler:setCallback(CALLBACK_GREET, function(cid)
     if (getSamePosition(getNpcPos(), { x = 5020, y = 788, z = 7 }) and getCreatureStorage(cid, FIRST_POKEMON_STORAGE) ~= QUEST_STATUS.FINISHED) then
-        selfSay("You can choose a {Charmander} or a {Squirtle} or a {Bulbasaur}. What is your choice?", cid)
+        selfSay("You can choose any starter: Generation I: {Charmander},{Squirtle} or a {Bulbasaur}. Generation II {Chikorita}, {Cyndaquil} or a {Tototile}. Generation III. {Treecko},{Torchic} or a {Mudkip}. Generation IV: {Turtwig},{Chimchar} or a {Piplup}.  What is your choice?", cid)
         npcHandler:addFocus(cid)
         return false
     end

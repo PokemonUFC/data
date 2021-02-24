@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<monster name="Arceus" nameDescription="an Arceus" shiny="Shiny Arceus" race="blood" experience="10" speed="290" manacost="0" minLevel="20" maxLevel="30">
+<monster name="Maractus" nameDescrption="a Maractus" shiny="Shiny Maractus" race="blood" experience="10" speed="290" manacost="0" minLevel="20" maxLevel="30">
 	<health now="35" max="35"/>
-	<look type="107" head="0" body="0" legs="0" feet="0" corpse="11413"/>
+	<look type="170" head="0" body="0" legs="0" feet="0" corpse="11413"/>
 	<targetchange interval="5000" chance="8"/>
 	<strategy attack="100" defense="0"/>
 	<flags>

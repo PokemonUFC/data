@@ -1,51 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <talkactions>
-<!-- New -->
-<talkaction words="/evolve;!eolve" event="script" value="../../lib/ps/events/talkactions/evolve.lua" description="Evolves your Pokemon if the conditions are met." />
-<!-- Others -->
-<talkaction words="/addon" event="script" value="../../lib/ps/events/talkactions/pokemonAddon.lua" description="Show Pokemon addons." />
-<talkaction words="/cupom;/coupon" event="script" value="../../lib/ps/events/talkactions/coupon.lua" description="Uses a coupon." />
-<talkaction words="/afk" event="script" value="../../lib/ps/events/talkactions/afk.lua" description="Set AFK state." />
-<talkaction words="/time" event="script" value="../../lib/ps/events/talkactions/time.lua" description="Show game time." />
-<talkaction words="/help;/command;/commands;/comando;/comandos" hidden="yes" event="script" value="../../lib/ps/events/talkactions/commands.lua" />
-<talkaction words="/megusta;/trollface;/yaomingface;/pokerface;/foreveralone" event="script" value="../../lib/ps/events/talkactions/memes.lua" description="Show a meme."/>
-<talkaction words="/autoloot" case-sensitive="no" event="script" value="../../lib/ps/events/talkactions/autoLoot.lua" description="Automatic loot from corpses."/>
-<talkaction words="/dv" hidden="yes" case-sensitive="no" event="script" value="../../lib/ps/events/talkactions/dexView.lua"/>
-<talkaction words="/exp" event="script" value="../../lib/ps/events/talkactions/pokemonExperience.lua" description="Show information about your Pokemon experience." />
-<talkaction words="/held" event="script" value="../../lib/ps/events/talkactions/heldExperience.lua" description="Show information about your Pokemon Held item experience." />
-<talkaction words="/love" event="script" value="../../lib/ps/events/talkactions/love.lua" description="Show a love emoticon."/>
-<talkaction words="t1;t2;t3;t4" event="script" value="../../lib/ps/events/talkactions/turn.lua" description="Turn your Pokemon direction."/>
-<talkaction words="/autoWalk" case-sensitive="no" event="script" value="../../lib/ps/events/talkactions/autoWalk.lua" description="Automatic walk's straight."/>
-<talkaction words="/sd" hidden="yes" case-sensitive="no" event="script" value="../../lib/ps/events/talkactions/client/skillDescription.lua"/>
-<talkaction words="/cp" hidden="yes" case-sensitive="no" event="script" value="../../lib/ps/events/talkactions/client/callPokemon.lua"/>
-<talkaction words="/pd" hidden="yes" case-sensitive="no" event="script" value="../../lib/ps/events/talkactions/client/pokemonDescription.lua"/>
-<talkaction words="/tc" hidden="yes" case-sensitive="no" event="script" value="../../lib/ps/events/talkactions/client/tmChoose.lua"/>
-<talkaction words="/d1;/d2" event="script" value="../../lib/ps/events/talkactions/transformMemory.lua" description="Order your Pokemon to transform into the corresponding memory slot."/>
-<talkaction words="/boss" event="script" value="../../lib/ps/events/talkactions/bossRewardCheck.lua" description="Show remaining time to be able to receive another World Boss reward." />
-<talkaction words="/lang" event="script" value="../../lib/ps/events/talkactions/setLanguage.lua" description="Set current game language." />
-<!-- Skills -->
-<talkaction words="s1;s2;s3;s4;s5;s6;s7;s8;s9;s10;s11;s12;s13;s14;s15;s16;m1;m2;m3;m4;m5;m6;m7;m8;m9;m10;m11;m12;m13;m14;m15;m16" case-sensitive="no" hidden="yes" event="script" value="../../lib/ps/events/talkactions/skill.lua" />
-<!-- Abilities -->
-<talkaction words="/teleport;/tele;/tp" event="script" value="../../lib/ps/events/talkactions/teleport.lua" description="Command for Teleport ability."/>
-<talkaction words="/up" event="script" value="../../lib/ps/events/talkactions/flyUp.lua" description="Up a floor when flying."/>
-<talkaction words="/down" event="script" value="../../lib/ps/events/talkactions/flyDown.lua" description="Down a floor when flying."/>
-<talkaction words="/find" event="script" value="../../lib/ps/events/talkactions/find.lua" description="Command for Find ability."/>
-<!-- TV -->
-<talkaction words="/tvname" event="script" value="../../lib/ps/events/talkactions/tv/name.lua" description="Rename TV Channel when broadcasting."/>
-<talkaction words="/tvlist" event="script" value="../../lib/ps/events/talkactions/tv/list.lua" description="List of viewers when broadcasting."/>
-<talkaction words="/tvkick" event="script" value="../../lib/ps/events/talkactions/tv/kick.lua" description="Kick a viewer when broadcasting."/>
-<talkaction words="/tvban" event="script" value="../../lib/ps/events/talkactions/tv/ban.lua" description="Ban a viewer when broadcasting."/>
-<talkaction words="/tvunban" event="script" value="../../lib/ps/events/talkactions/tv/unban.lua" description="Unban a viewer when broadcasting."/>
-<talkaction words="/tvpassword" event="script" value="../../lib/ps/events/talkactions/tv/password.lua" description="Create a required password to watch the channel."/>
-<!-- Guild -->
-<talkaction words="/list" event="script" value="../../lib/ps/events/talkactions/guildList.lua" description="Show online guild members."/>
-<talkaction words="/setrank" event="script" value="../../lib/ps/events/talkactions/guildRank.lua" description="Change a guild member rank."/>
-<!--
-<talkaction words="/tvbanlist" event="script" value="../../lib/ps/events/talkactions/tv/banlist.lua"/>
--->
-<!--
-<talkaction words="/gl" event="script" value="../../lib/ps/tools/generateLoot.lua" />
--->
+	<!-- New -->
+	<talkaction words="/evolve;!evolve" event="script" value="../../lib/ps/events/talkactions/evolve.lua" description="Evolves your Pokemon if the conditions are met." />
+	<!-- Others -->
+	<talkaction words="/addon" event="script" value="../../lib/ps/events/talkactions/pokemonAddon.lua" description="Show Pokemon addons." />
+	<talkaction words="/cupom;/coupon" event="script" value="../../lib/ps/events/talkactions/coupon.lua" description="Uses a coupon." />
+	<talkaction words="/afk" event="script" value="../../lib/ps/events/talkactions/afk.lua" description="Set AFK state." />
+	<talkaction words="/time" event="script" value="../../lib/ps/events/talkactions/time.lua" description="Show game time." />
+	<talkaction words="/help;/command;/commands;/comando;/comandos" hidden="yes" event="script" value="../../lib/ps/events/talkactions/commands.lua" />
+	<talkaction words="/megusta;/trollface;/yaomingface;/pokerface;/foreveralone" event="script" value="../../lib/ps/events/talkactions/memes.lua" description="Show a meme."/>
+	<talkaction words="/autoloot" case-sensitive="no" event="script" value="../../lib/ps/events/talkactions/autoLoot.lua" description="Automatic loot from corpses."/>
+	<talkaction words="/dv" hidden="yes" case-sensitive="no" event="script" value="../../lib/ps/events/talkactions/dexView.lua"/>
+	<talkaction words="/exp" event="script" value="../../lib/ps/events/talkactions/pokemonExperience.lua" description="Show information about your Pokemon experience." />
+	<talkaction words="/held" event="script" value="../../lib/ps/events/talkactions/heldExperience.lua" description="Show information about your Pokemon Held item experience." />
+	<talkaction words="/love" event="script" value="../../lib/ps/events/talkactions/love.lua" description="Show a love emoticon."/>
+	<talkaction words="t1;t2;t3;t4" event="script" value="../../lib/ps/events/talkactions/turn.lua" description="Turn your Pokemon direction."/>
+	<talkaction words="/autoWalk" case-sensitive="no" event="script" value="../../lib/ps/events/talkactions/autoWalk.lua" description="Automatic walk's straight."/>
+	<talkaction words="/sd" hidden="yes" case-sensitive="no" event="script" value="../../lib/ps/events/talkactions/client/skillDescription.lua"/>
+	<talkaction words="/cp" hidden="yes" case-sensitive="no" event="script" value="../../lib/ps/events/talkactions/client/callPokemon.lua"/>
+	<talkaction words="/pd" hidden="yes" case-sensitive="no" event="script" value="../../lib/ps/events/talkactions/client/pokemonDescription.lua"/>
+	<talkaction words="/tc" hidden="yes" case-sensitive="no" event="script" value="../../lib/ps/events/talkactions/client/tmChoose.lua"/>
+	<talkaction words="/d1;/d2" event="script" value="../../lib/ps/events/talkactions/transformMemory.lua" description="Order your Pokemon to transform into the corresponding memory slot."/>
+	<talkaction words="/boss" event="script" value="../../lib/ps/events/talkactions/bossRewardCheck.lua" description="Show remaining time to be able to receive another World Boss reward." />
+	<talkaction words="/lang" event="script" value="../../lib/ps/events/talkactions/setLanguage.lua" description="Set current game language." />
+	<!-- Skills -->
+	<talkaction words="s1;s2;s3;s4;s5;s6;s7;s8;s9;s10;s11;s12;s13;s14;s15;s16;m1;m2;m3;m4;m5;m6;m7;m8;m9;m10;m11;m12;m13;m14;m15;m16" case-sensitive="no" hidden="yes" event="script" value="../../lib/ps/events/talkactions/skill.lua" />
+	<!-- Abilities -->
+	<talkaction words="/teleport;/tele;/tp" event="script" value="../../lib/ps/events/talkactions/teleport.lua" description="Command for Teleport ability."/>
+	<talkaction words="/up" event="script" value="../../lib/ps/events/talkactions/flyUp.lua" description="Up a floor when flying."/>
+	<talkaction words="/down" event="script" value="../../lib/ps/events/talkactions/flyDown.lua" description="Down a floor when flying."/>
+	<talkaction words="/find" event="script" value="../../lib/ps/events/talkactions/find.lua" description="Command for Find ability."/>
+	<!-- TV -->
+	<talkaction words="/tvname" event="script" value="../../lib/ps/events/talkactions/tv/name.lua" description="Rename TV Channel when broadcasting."/>
+	<talkaction words="/tvlist" event="script" value="../../lib/ps/events/talkactions/tv/list.lua" description="List of viewers when broadcasting."/>
+	<talkaction words="/tvkick" event="script" value="../../lib/ps/events/talkactions/tv/kick.lua" description="Kick a viewer when broadcasting."/>
+	<talkaction words="/tvban" event="script" value="../../lib/ps/events/talkactions/tv/ban.lua" description="Ban a viewer when broadcasting."/>
+	<talkaction words="/tvunban" event="script" value="../../lib/ps/events/talkactions/tv/unban.lua" description="Unban a viewer when broadcasting."/>
+	<talkaction words="/tvpassword" event="script" value="../../lib/ps/events/talkactions/tv/password.lua" description="Create a required password to watch the channel."/>
+	<!-- Guild -->
+	<talkaction words="/list" event="script" value="../../lib/ps/events/talkactions/guildList.lua" description="Show online guild members."/>
+	<talkaction words="/setrank" event="script" value="../../lib/ps/events/talkactions/guildRank.lua" description="Change a guild member rank."/>
+	<!--
+	<talkaction words="/tvbanlist" event="script" value="../../lib/ps/events/talkactions/tv/banlist.lua"/>
+	-->
+	<!--
+	<talkaction words="/gl" event="script" value="../../lib/ps/tools/generateLoot.lua" />
+	-->
 
 	<!-- End PS -->
 	
@@ -59,7 +59,7 @@
 	<talkaction log="yes" words="/shutdown" event="script" value="shutdown.lua"/>
 	<talkaction log="yes" words="/mode" event="script" value="mode.lua"/>
 	<talkaction log="yes" words="/createnpc" event="script" value="createNpc.lua"/>
-	<talkaction log="yes" words="/mypokemon" event="script" value="pokemon.lua"/>
+	<talkaction log="yes" words="/cb" event="script" value="pokemon.lua"/>
 	<talkaction log="yes" words="/s" event="script" value="summon.lua"/>
 	<talkaction log="yes" words="/n" event="script" value="creature.lua"/>
 	<talkaction log="yes" words="/m" event="script" value="creature.lua" description="Summon monster."/>

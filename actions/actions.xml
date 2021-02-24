@@ -2,6 +2,8 @@
 <actions>
   <!-- PS -->
 	<!-- Others -->
+	<action itemid="30001" event="script" value="../../lib/ps/events/actions/battleCase.lua" />
+	
     <action itemid="29562-29783;29784-29858" event="script" value="../../lib/ps/events/actions/pokemonAddon.lua" allowfaruse="1"  />
     <action itemid="29131" event="script" value="../../lib/ps/events/actions/xpBoostPotion.lua"  />
 	<action itemid="29129" event="script" value="../../lib/ps/events/actions/masteryBallBox.lua" />

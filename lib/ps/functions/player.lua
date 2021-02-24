@@ -715,11 +715,20 @@ end
 
 -- Main items related
 function doPlayerAddMainItems(cid)
-    setItemUniqueOwner(doPlayerAddItem(cid, 12157, 100, false), cid) -- 100x Empty poke ball
+    setItemUniqueOwner(doPlayerAddItem(cid, 12165, 100, false), cid) -- 100x Empty Ultra Ball 13204
     setItemUniqueOwner(doPlayerAddItem(cid, 2687, 100, false), cid) -- 100x Cookie
-    setItemUniqueOwner(doPlayerAddItem(cid, 12244, 20, false), cid) -- 20x Pokemon health potion
+    setItemUniqueOwner(doPlayerAddItem(cid, 2160, 2, false), cid) -- 100x Goldbar
+    setItemUniqueOwner(doPlayerAddItem(cid, 12244, 1, false), cid) -- 1x Pokemon health potion
     setItemUniqueOwner(doPlayerAddItem(cid, 2120, 1, false), cid) -- 1x Rope
     setItemUniqueOwner(doPlayerAddItem(cid, 12292, 1, false), cid) -- 1x Old Fishing Rood
+	setItemUniqueOwner(doPlayerAddItem(cid, 13204, 1, false), cid) -- 1x Evolve Icon
+	setItemUniqueOwner(doPlayerAddItem(cid, 13016, 1, false), cid) -- 1x Duel Icon
+	setItemUniqueOwner(doPlayerAddItem(cid, 17741, 1, false), cid) -- 1x chikorita egg
+	setItemUniqueOwner(doPlayerAddItem(cid, 17742, 1, false), cid) -- 1x cyndaquil egg
+	setItemUniqueOwner(doPlayerAddItem(cid, 17743, 1, false), cid) -- 1x totodile egg
+	setItemUniqueOwner(doPlayerAddItem(cid, 28589, 1, false), cid) -- 1x treecko egg
+	setItemUniqueOwner(doPlayerAddItem(cid, 28586, 1, false), cid) -- 1x torchic egg
+	setItemUniqueOwner(doPlayerAddItem(cid, 28562, 1, false), cid) -- 1x mudkip egg
 end
 
 function getPlayerFirstPokemon(cid)
@@ -1085,6 +1094,15 @@ end
 
 function setPlayerTotalCasedDolls(cid, value)
     doCreatureSetStorage(cid, playersStorages.casedDolls, value)
+end
+
+function getPlayerTotalCasedBattles(cid)
+    local r = getCreatureStorage(cid, playersStorages.casedBattles)
+    return r > -1 and r or 0
+end
+
+function setPlayerTotalCasedBattles(cid, value)
+    doCreatureSetStorage(cid, playersStorages.casedBattles, value)
 end
 
 function getPlayerLastUsedIncubator(cid)

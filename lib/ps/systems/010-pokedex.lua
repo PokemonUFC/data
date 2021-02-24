@@ -1,5 +1,5 @@
 local DEXES = {}
-DEXES[DEX_IDS.KANTO] = {itemId = 12281, pokemonIdMax = POKEMON_NUMBER, effect = EFFECT_EMOTION_POKEDEX,
+DEXES[DEX_IDS.KANTO] = {itemId = 12281, pokemonIdMax = 151, effect = EFFECT_EMOTION_POKEDEX,
   upgrade = DEX_IDS.JOHTO, showTime = false}
 DEXES[DEX_IDS.JOHTO] = {itemId = 18161, pokemonIdMax = POKEMON_NUMBER, effect = EFFECT_EMOTION_JOHTO_POKEDEX,
   showTime = true}

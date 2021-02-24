@@ -503,61 +503,61 @@
 	<!-- BOSS / PVP ARENA -->
 	<monster name="The Kicker" file="PvpArena/the kicker.xml"/>
 	<monster name="The Punisher Hand" file="PvpArena/the punisher hand.xml"/>
-		<!-- ARENA #1 -->
-		<monster name="The Bird" file="PvpArena/1/the bird.xml"/>
-		<monster name="The Brown Larva" file="PvpArena/1/the brown larva.xml"/>
-		<monster name="The Bug" file="PvpArena/1/the bug.xml"/>
-		<monster name="The Iron Tooth" file="PvpArena/1/the iron tooth.xml"/>
-		<monster name="PvP Pidgey" file="PvpArena/1/pvp arena pidgey.xml"/>
-		<monster name="PvP Weedle" file="PvpArena/1/pvp arena weedle.xml"/>
-		<monster name="PvP Caterpie" file="PvpArena/1/pvp arena caterpie.xml"/>
-		<monster name="PvP Rattata" file="PvpArena/1/pvp arena rattata.xml"/>
-		<!-- ARENA #2 -->
-		<monster name="The Flameless Gecko" file="PvpArena/2/the flameless gecko.xml"/>
-		<monster name="The Singer" file="PvpArena/2/the singer.xml"/>
-		<monster name="The Small Turtle" file="PvpArena/2/the small turtle.xml"/>
-		<monster name="The Soak Toad" file="PvpArena/2/the soak toad.xml"/>
-		<monster name="The Yellow Ray" file="PvpArena/2/the yellow ray.xml"/>
-		<monster name="PvP Charmander" file="PvpArena/2/pvp arena charmander.xml"/>
-		<monster name="PvP Jigglypuff" file="PvpArena/2/pvp arena jigglypuff.xml"/>
-		<monster name="PvP Squirtle" file="PvpArena/2/pvp arena squirtle.xml"/>
-		<monster name="PvP Bulbasaur" file="PvpArena/2/pvp arena bulbasaur.xml"/>
-		<monster name="PvP Pikachu" file="PvpArena/2/pvp arena pikachu.xml"/>
-		<!-- ARENA #3 -->
-		<monster name="The Batjaw" file="PvpArena/3/the batjaw.xml"/>
-		<monster name="The Cobra" file="PvpArena/3/the cobra.xml"/>
-		<monster name="The Drilling Machine" file="PvpArena/3/the drilling machine.xml"/>
-		<monster name="The Poisonous Plant" file="PvpArena/3/the poisonous plant.xml"/>
-		<monster name="The Venomwich" file="PvpArena/3/the venomwich.xml"/>
-		<monster name="PvP Golbat" file="PvpArena/3/pvp arena golbat.xml"/>
-		<monster name="PvP Arbok" file="PvpArena/3/pvp arena arbok.xml"/>
-		<monster name="PvP Beedrill" file="PvpArena/3/pvp arena beedrill.xml"/>
-		<monster name="PvP Gloom" file="PvpArena/3/pvp arena gloom.xml"/>
-		<monster name="PvP Venonat" file="PvpArena/3/pvp arena venonat.xml"/>
-		<!-- ARENA #4 -->
-		<monster name="The Alligator Fist" file="PvpArena/4/the alligator fist.xml"/>
-		<monster name="The Big Bagtrap" file="PvpArena/4/the big bagtrap.xml"/>
-		<monster name="The Psy" file="PvpArena/4/the psy.xml"/>
-		<monster name="The Rocker" file="PvpArena/4/the rocker.xml"/>
-		<monster name="The Sonic Boom" file="PvpArena/4/the sonic boom.xml"/>
-		<monster name="PvP Machoke" file="PvpArena/4/pvp arena machoke.xml"/>
-		<monster name="PvP Weepinbell" file="PvpArena/4/pvp arena weepinbell.xml"/>
-		<monster name="PvP Kadabra" file="PvpArena/4/pvp arena kadabra.xml"/>
-		<monster name="PvP Graveler" file="PvpArena/4/pvp arena graveler.xml"/>
-		<monster name="PvP Magneton" file="PvpArena/4/pvp arena magneton.xml"/>
-		<!-- ARENA #5 -->
-		<monster name="The Dream Eater" file="PvpArena/5/the dream eater.xml"/>
-		<monster name="The Hipnotist" file="PvpArena/5/the hipnotist.xml"/>
-		<monster name="The Hunter" file="PvpArena/5/the hunter.xml"/>
-		<monster name="The Lovely" file="PvpArena/5/the lovely.xml"/>
-		<monster name="The Thousand Arms" file="PvpArena/5/the thousand arms.xml"/>
-		<monster name="The War Dog" file="PvpArena/5/the war dog.xml"/>	
-		<monster name="PvP Gengar" file="PvpArena/5/pvp arena gengar.xml"/>
-		<monster name="PvP Alakazam" file="PvpArena/5/pvp arena alakazam.xml"/>
-		<monster name="PvP Pidgeot" file="PvpArena/5/pvp arena pidgeot.xml"/>
-		<monster name="PvP Clefable" file="PvpArena/5/pvp arena clefable.xml"/>
-		<monster name="PvP Tentacruel" file="PvpArena/5/pvp arena tentacruel.xml"/>
-		<monster name="PvP Arcanine" file="PvpArena/5/pvp arena arcanine.xml"/>
+	<!-- ARENA #1 -->
+	<monster name="The Bird" file="PvpArena/1/the bird.xml"/>
+	<monster name="The Brown Larva" file="PvpArena/1/the brown larva.xml"/>
+	<monster name="The Bug" file="PvpArena/1/the bug.xml"/>
+	<monster name="The Iron Tooth" file="PvpArena/1/the iron tooth.xml"/>
+	<monster name="PvP Pidgey" file="PvpArena/1/pvp arena pidgey.xml"/>
+	<monster name="PvP Weedle" file="PvpArena/1/pvp arena weedle.xml"/>
+	<monster name="PvP Caterpie" file="PvpArena/1/pvp arena caterpie.xml"/>
+	<monster name="PvP Rattata" file="PvpArena/1/pvp arena rattata.xml"/>
+	<!-- ARENA #2 -->
+	<monster name="The Flameless Gecko" file="PvpArena/2/the flameless gecko.xml"/>
+	<monster name="The Singer" file="PvpArena/2/the singer.xml"/>
+	<monster name="The Small Turtle" file="PvpArena/2/the small turtle.xml"/>
+	<monster name="The Soak Toad" file="PvpArena/2/the soak toad.xml"/>
+	<monster name="The Yellow Ray" file="PvpArena/2/the yellow ray.xml"/>
+	<monster name="PvP Charmander" file="PvpArena/2/pvp arena charmander.xml"/>
+	<monster name="PvP Jigglypuff" file="PvpArena/2/pvp arena jigglypuff.xml"/>
+	<monster name="PvP Squirtle" file="PvpArena/2/pvp arena squirtle.xml"/>
+	<monster name="PvP Bulbasaur" file="PvpArena/2/pvp arena bulbasaur.xml"/>
+	<monster name="PvP Pikachu" file="PvpArena/2/pvp arena pikachu.xml"/>
+	<!-- ARENA #3 -->
+	<monster name="The Batjaw" file="PvpArena/3/the batjaw.xml"/>
+	<monster name="The Cobra" file="PvpArena/3/the cobra.xml"/>
+	<monster name="The Drilling Machine" file="PvpArena/3/the drilling machine.xml"/>
+	<monster name="The Poisonous Plant" file="PvpArena/3/the poisonous plant.xml"/>
+	<monster name="The Venomwich" file="PvpArena/3/the venomwich.xml"/>
+	<monster name="PvP Golbat" file="PvpArena/3/pvp arena golbat.xml"/>
+	<monster name="PvP Arbok" file="PvpArena/3/pvp arena arbok.xml"/>
+	<monster name="PvP Beedrill" file="PvpArena/3/pvp arena beedrill.xml"/>
+	<monster name="PvP Gloom" file="PvpArena/3/pvp arena gloom.xml"/>
+	<monster name="PvP Venonat" file="PvpArena/3/pvp arena venonat.xml"/>
+	<!-- ARENA #4 -->
+	<monster name="The Alligator Fist" file="PvpArena/4/the alligator fist.xml"/>
+	<monster name="The Big Bagtrap" file="PvpArena/4/the big bagtrap.xml"/>
+	<monster name="The Psy" file="PvpArena/4/the psy.xml"/>
+	<monster name="The Rocker" file="PvpArena/4/the rocker.xml"/>
+	<monster name="The Sonic Boom" file="PvpArena/4/the sonic boom.xml"/>
+	<monster name="PvP Machoke" file="PvpArena/4/pvp arena machoke.xml"/>
+	<monster name="PvP Weepinbell" file="PvpArena/4/pvp arena weepinbell.xml"/>
+	<monster name="PvP Kadabra" file="PvpArena/4/pvp arena kadabra.xml"/>
+	<monster name="PvP Graveler" file="PvpArena/4/pvp arena graveler.xml"/>
+	<monster name="PvP Magneton" file="PvpArena/4/pvp arena magneton.xml"/>
+	<!-- ARENA #5 -->
+	<monster name="The Dream Eater" file="PvpArena/5/the dream eater.xml"/>
+	<monster name="The Hipnotist" file="PvpArena/5/the hipnotist.xml"/>
+	<monster name="The Hunter" file="PvpArena/5/the hunter.xml"/>
+	<monster name="The Lovely" file="PvpArena/5/the lovely.xml"/>
+	<monster name="The Thousand Arms" file="PvpArena/5/the thousand arms.xml"/>
+	<monster name="The War Dog" file="PvpArena/5/the war dog.xml"/>	
+	<monster name="PvP Gengar" file="PvpArena/5/pvp arena gengar.xml"/>
+	<monster name="PvP Alakazam" file="PvpArena/5/pvp arena alakazam.xml"/>
+	<monster name="PvP Pidgeot" file="PvpArena/5/pvp arena pidgeot.xml"/>
+	<monster name="PvP Clefable" file="PvpArena/5/pvp arena clefable.xml"/>
+	<monster name="PvP Tentacruel" file="PvpArena/5/pvp arena tentacruel.xml"/>
+	<monster name="PvP Arcanine" file="PvpArena/5/pvp arena arcanine.xml"/>
 	<!-- NATURAL -->
 	<monster name="Natural Golem" file="Natural/natural golem.xml"/>
 	<monster name="Natural Primeape" file="Natural/natural primeape.xml"/>
@@ -1329,7 +1329,7 @@
 	<monster name="FI The Lovely" file="FrontierIsland/Boss/the lovely.xml"/>
 	<monster name="FI The Thousand Arms" file="FrontierIsland/Boss/the thousand arms.xml"/>
 	<monster name="FI The War Dog" file="FrontierIsland/Boss/the war dog.xml"/>
-		<!-- RANGER CLUB -->
+<!-- RANGER CLUB -->
 	<monster name="RC Alakazam" file="RangerClub/alakazam.xml"/>
 	<monster name="RC Beedrill" file="RangerClub/beedrill.xml"/>
 	<monster name="RC Blastoise" file="RangerClub/blastoise.xml"/>

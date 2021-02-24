@@ -35819,7 +35819,7 @@
 
     <item fromid="30133" toid="30135" name="morganite tapestry" />
 	
-	<item id="30001" name="water" />
+	<item id="30001" article="a" name="battle case" />
 	<item id="30002" name="blood" />
 	<item id="30003" name="beer" />
 	<item id="30004" name="slime" />
@@ -35838,7 +35838,7 @@
 	<item id="30028" name="swamp" />
 	<item id="30035" name="tea" />
 	
-	<item fromid="30136" toid="30245" article="a" name="pokemon portrait">
+	<item fromid="30136" toid="30539" article="a" name="pokemon portrait">
 		<attribute key="slotType" value="legs" />
 	</item>
 </items>

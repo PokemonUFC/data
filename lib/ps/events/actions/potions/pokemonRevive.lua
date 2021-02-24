@@ -5,10 +5,7 @@ function onUse(cid, item, fromPosition, itemEx, toPosition)
 	end
 
 	local ballName = ballsNames[itemEx.itemid]
-	if (not isItem(itemEx) or ballName == nil or  itemEx.itemid ~= balls[ballName].discharged) then
-	-- if (not isItem(itemEx) or ballName == nil) then
-		doPlayerSendDefaultCancel(cid, RETURNVALUE_NOTPOSSIBLE)
-	elseif (isDueling(cid)) then
+	if (isDueling(cid)) then
 		doPlayerSendCancel(cid, "You can not use this potion while you're dueling.")
 	elseif (getPlayerBattleing(cid)) then
 		doPlayerSendCancel(cid, "You can not use this potion while you're battleing.")

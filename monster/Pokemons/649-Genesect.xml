@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<monster name="649-Genesect.xml" nameDescrption="a 649-Genesect.xml" shiny="649-Genesect.xml" race="blood" experience="10" speed="290" manacost="0" minLevel="20" maxLevel="30">
 <monster name="Arceus" nameDescription="an Arceus" shiny="Shiny Arceus" race="blood" experience="10" speed="290" manacost="0" minLevel="20" maxLevel="30">
 	<health now="35" max="35"/>
 	<look type="107" head="0" body="0" legs="0" feet="0" corpse="11413"/>

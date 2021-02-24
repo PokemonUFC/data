@@ -5549,10 +5549,8 @@ QUESTS_CONFIG = {
             rewardItems = {},
             rewardExp = 500,
             requiredLevel = 10,
-            questType = QUEST_TYPE.CUSTOM,
-            questRequest = function(cid)
-                return getPlayerItemCount(cid, 23533) > 0 and getCreatureStorage(cid, 8509) == QUEST_STATUS.FINISHED
-            end,
+            questType = QUEST_TYPE.BRING_ITEMS,
+            questRequest = { 23533, 1 },
             canStart = function(cid) return getCreatureStorage(cid, 8410) == QUEST_STATUS.FINISHED --[[ and getSamePosition(getCreaturePosition(getNpcId()), {x = 932, y = 262, z = 7})]] end, -- Kanto Main #1 complete (Assistant Guyli)
             questStartItems = { 23533, 1 }, -- gary oak's magnifier
             onEnd = function(cid)
@@ -5563,7 +5561,7 @@ QUESTS_CONFIG = {
                 doPlayerAddMapMark(cid, { x = 3546, y = 300, z = 5 }, MAPMARK_EXCLAMATION, "Ash Ketchum search location.")
             end,
             startPosition = { x = 3304, y = 603, z = 7 },
-            finishPosition = { x = 3450, y = 245, z = 7 }
+            finishPosition = { x = 3304, y = 603, z = 7 }
         },
         {
             -- Auto started by 8417
